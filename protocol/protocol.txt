@@ -1,0 +1,1075 @@
+SWE2#CleanCode#Was spricht gegen den Variablennamen l (klein L)?#true
+SWE2#CleanCode#Was sind Namenskonventionen?#false
+SWE2#CleanCode#Was sind Namenskonventionen?#true
+SWE2#CleanCode#Auf wen geht der Begriff <em>Clean Code</em> zur&uuml;ck#true
+SWE2#CleanCode#Was spricht gegen den Variablennamen l (klein L)?#true
+SWE2#CleanCode#Was bedeutet <em>Ungarische Notation</em>?#false
+SWE2#CleanCode#Was bedeutet <em>Ungarische Notation</em>?#true
+SWE2#CleanCode#Was sagen die &uuml;blichen Stil-Regeln zur Zeile <em>int i, j, k;</em>?#true
+2020-06-19:09:09:52am#PG1#Ablaeufe#Was ist bei Schleifen zu beachten, deren Z&auml;hlvariable vom Typ double ist?#false
+2020-06-19:09:52:09am#PG1#Java#Java ist OOP#true
+2020-06-19:09:52:15am#PG1#Java#Java ist &auml;lter als die Programmiersprache C#true
+2020-06-19:09:52:25am#PG1#Java#Wonach wurde die Java-Technologie benannt?#true
+2020-06-19:09:52:36am#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#true
+2020-06-19:09:52:42am#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#true
+2020-06-19:09:53:04am#PG1#Int#16 % 7#true
+2020-06-19:09:53:27am#PG1#Int#1855 % 10#true
+2020-06-19:09:53:45am#PG1#Int#1359 % 10#true
+2020-06-19:09:54:04am#PG1#Int#13 / 4#true
+2020-06-19:09:54:19am#PG1#Int#13 / 6#true
+2020-06-19:09:54:36am#PG1#Int#Mit <em>i=3;j=4</em> was ergibt <em>++i * j</em>?#true
+2020-06-19:09:55:02am#PG1#Int#Mit <em>i=3;j=5</em> was ergibt <em>i++ * j</em>?#true
+2020-06-19:09:55:18am#PG1#Int#Mit <em>i=2;j=5</em> was ergibt <em>--i * j</em>?#true
+2020-06-19:09:55:31am#PG1#Int#Mit <em>i=2;j=2</em> was ergibt <em>i-- * j</em>?#true
+2020-06-19:09:55:44am#PG1#Int#i nach i=4; ++i;#true
+2020-06-19:09:56:02am#PG1#Int#j nach i=4; j=3; j = ++i*j;#true
+2020-06-19:09:56:12am#PG1#Int#j nach i=4; j=3; j = i++*j;#true
+2020-06-19:09:56:25am#PG1#Int#6789 % 100#true
+2020-06-19:09:56:45am#PG1#Int#6789 / 100#true
+2020-06-19:09:57:03am#PG1#Int#int-Wert ueberschreitet groessten darstellbaren Wert#true
+2020-06-19:09:57:28am#PG1#Int#Was bedeutet das R in RGB (Deutsch, Anfangsbuchstabe gro&szlig;)#true
+2020-06-19:09:57:42am#PG1#Int#$2 ist ein nicht empfehlenswerter aber legaler Variablenname#true
+2020-06-19:09:58:03am#PG1#Int#Ist int n = 10_000_000; erlaubt?#true
+2020-06-19:09:58:14am#PG1#Int#Ist int n = 10.; erlaubt?#true
+2020-06-19:09:59:05am#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-19:09:59:12am#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-19:09:59:17am#PG1#Int#Schlechte Namen fuer Variablen?#true
+2020-06-19:09:59:46am#PG1#Ablaeufe#Befehl fuer Abbruch einer Schleife#true
+2020-06-19:10:00:00am#PG1#Ablaeufe#Was bewirkt continue#true
+2020-06-19:10:00:22am#PG1#Ablaeufe#for( int i=0; i==50; i++ )#true
+2020-06-19:14:06:17pm#PG2#JavaOOP#Elternklasse, wenn keine andere angegeben#true
+2020-06-19:22:01:14pm#PG1#Methoden#Was berechnet die Methode <pre>int f( int n ) { if( n < 10 ) { return n; } else { return n%10 +f(n/10);} }</pre>#true
+2020-06-19:22:01:25pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#true
+2020-06-19:22:01:31pm#PG1#Methoden#Variablen innerhalb von Methoden behalten ihren Wert fuer den naechsten Aufruf#true
+2020-06-19:22:19:01pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#false
+2020-06-19:22:19:03pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#true
+2020-06-19:22:19:41pm#PG1#Methoden#Variablen innerhalb von Methoden behalten ihren Wert fuer den naechsten Aufruf#true
+2020-06-19:22:19:54pm#PG1#Methoden#<html>Mehrere Methoden k&ouml;nnen den gleichen Namen haben.</html>#false
+2020-06-19:22:19:58pm#PG1#Methoden#<html>Mehrere Methoden k&ouml;nnen den gleichen Namen haben.</html>#true
+2020-06-19:22:20:15pm#PG1#Methoden#Eine Variable in einer Methode darf den gleichen Namen haben wie eine Variable in einer anderen Methode.#true
+2020-06-19:22:20:25pm#PG1#Methoden#<html>Eine Methode darf nur ein <em>return</em> enthalten.</html>#true
+2020-06-19:22:20:39pm#PG1#Methoden#<html>Methoden ohne R&uuml;ckgabewert ben&ouml;tigen kein expilizites <em>return</em>.</html>#true
+2020-06-19:22:20:53pm#PG1#Methoden#<html>Man kann an Methoden nur primitive Datentypen wie <em>int</em> &uuml;bergeben.</html>#true
+2020-06-19:22:21:16pm#PG1#Methoden#<html>Bei einer Methode ohne Parameter schreibt man z. B. <em>double f( void )</em></html>#false
+2020-06-19:22:21:18pm#PG1#Methoden#<html>Bei einer Methode ohne Parameter schreibt man z. B. <em>double f( void )</em></html>#true
+2020-06-19:22:22:29pm#PG1#Methoden#<html>Felder werden mittels <em>call by reference</em> &uuml;bergeben.</html>#true
+2020-06-19:22:23:17pm#PG1#Methoden#Zur Definition einer Methode benoetigt man#false
+2020-06-19:22:23:19pm#PG1#Methoden#Zur Definition einer Methode benoetigt man#true
+2020-06-19:22:23:26pm#PG1#Methoden#Zur Definition einer Methode benoetigt man#true
+2020-06-19:22:23:42pm#PG1#Methoden#<html>Schl&uuml;sselwort bei Methoden ohne R&uuml;ckgabe#false
+2020-06-19:22:24:03pm#PG1#Methoden#<html>Schl&uuml;sselwort bei Methoden ohne R&uuml;ckgabe#true
+2020-06-19:22:24:10pm#PG1#Methoden#<html>Schl&uuml;sselwort bei Methoden ohne R&uuml;ckgabe#false
+2020-06-19:22:24:37pm#PG1#Methoden#Memoization steht fuer#false
+2020-06-19:22:24:48pm#PG1#Methoden#<html>Schl&uuml;sselwort bei Methoden ohne R&uuml;ckgabe#true
+2020-06-19:22:25:01pm#PG1#Methoden#Memoization steht fuer#true
+2020-06-19:22:25:43pm#PG1#Methoden#Durch Memoization kann man Rechenzeit sparen.#true
+2020-06-19:22:26:14pm#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#false
+2020-06-19:22:26:21pm#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#false
+2020-06-19:22:26:28pm#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#true
+2020-06-19:22:26:47pm#PG1#Methoden#Primitive Datentypen werden uebergeben als#true
+2020-06-19:22:27:21pm#PG1#Methoden#call by value bedeutet#true
+2020-06-19:22:27:56pm#PG1#Methoden#Probleme mit rekursiven Loesungen#false
+2020-06-19:22:28:01pm#PG1#Methoden#Probleme mit rekursiven Loesungen#false
+2020-06-19:22:28:03pm#PG1#Methoden#Probleme mit rekursiven Loesungen#false
+2020-06-19:22:28:07pm#PG1#Methoden#Probleme mit rekursiven Loesungen#true
+2020-06-19:22:28:27pm#PG1#Methoden#Die Methodensignatur enthaelt#false
+2020-06-19:22:28:36pm#PG1#Methoden#Die Methodensignatur enthaelt#true
+2020-06-19:22:29:18pm#PG1#Methoden#Ist ein Aufruf in der folgenden Form erlaubt: senkrecht(x=0,y=0,laenge=20,farbe=GREEN);#true
+2020-06-20:14:30:32pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#true
+2020-06-20:14:30:58pm#PG1#Methoden#Variablen innerhalb von Methoden behalten ihren Wert fuer den naechsten Aufruf#false
+2020-06-20:14:31:02pm#PG1#Methoden#Variablen innerhalb von Methoden behalten ihren Wert fuer den naechsten Aufruf#true
+2020-06-20:14:31:32pm#PG1#Methoden#<html>Mehrere Methoden k&ouml;nnen den gleichen Namen haben.</html>#true
+2020-06-20:14:31:44pm#PG1#Methoden#Eine Variable in einer Methode darf den gleichen Namen haben wie eine Variable in einer anderen Methode.#true
+2020-06-20:14:31:50pm#PG1#Methoden#<html>Eine Methode darf nur ein <em>return</em> enthalten.</html>#true
+2020-06-20:14:32:08pm#PG1#Methoden#<html>Methoden ohne R&uuml;ckgabewert ben&ouml;tigen kein expilizites <em>return</em>.</html>#true
+2020-06-20:14:32:16pm#PG1#Methoden#<html>Man kann an Methoden nur primitive Datentypen wie <em>int</em> &uuml;bergeben.</html>#true
+2020-06-20:14:32:25pm#PG1#Methoden#<html>Bei einer Methode ohne Parameter schreibt man z. B. <em>double f( void )</em></html>#true
+2020-06-20:14:32:48pm#PG1#Methoden#<html>Felder werden mittels <em>call by reference</em> &uuml;bergeben.</html>#true
+2020-06-20:14:33:02pm#PG1#Methoden#Zur Definition einer Methode benoetigt man#true
+2020-06-20:14:33:29pm#PG1#Methoden#<html>Schl&uuml;sselwort bei Methoden ohne R&uuml;ckgabe#true
+2020-06-20:14:33:45pm#PG1#Methoden#Memoization steht fuer#true
+2020-06-20:14:33:59pm#PG1#Methoden#Durch Memoization kann man Rechenzeit sparen.#true
+2020-06-20:14:34:30pm#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#false
+2020-06-20:14:34:32pm#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#true
+2020-06-20:14:34:51pm#PG1#Methoden#Primitive Datentypen werden uebergeben als#true
+2020-06-20:14:35:02pm#PG1#Methoden#call by value bedeutet#true
+2020-06-20:14:35:17pm#PG1#Methoden#Probleme mit rekursiven Loesungen#true
+2020-06-20:14:35:40pm#PG1#Methoden#Die Methodensignatur enthaelt#true
+2020-06-20:14:36:13pm#PG1#Methoden#Ist ein Aufruf in der folgenden Form erlaubt: senkrecht(x=0,y=0,laenge=20,farbe=GREEN);#true
+2020-06-20:14:36:33pm#PG1#Methoden#<html>Zwei Methoden duerfen den gleichen Namen haben wenn sie sich in Typ oder Anzahl der Parameter unterscheiden.</html>#true
+2020-06-20:14:36:43pm#PG1#Methoden#<html>Ist die Definition <em>double fkt( double x, y ) { ...</em> erlaubt?</html>#true
+2020-06-20:14:37:18pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:37:20pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:37:34pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:37:34pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:37:43pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:38:20pm#PG1#Methoden#Was berechnet die Methode <pre>int f( int n ) { if( n < 10 ) { return n; } else { return n%10 +f(n/10);} }</pre>#true
+2020-06-20:14:38:54pm#PG1#Methoden#Was passiert beim Aufruf der folgenden Methode?  <pre>int fak( int n ){  return n * fak(n-1);}</pre>#true
+2020-06-20:14:39:04pm#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#false
+2020-06-20:14:39:08pm#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#false
+2020-06-20:14:39:22pm#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#true
+2020-06-20:14:42:04pm#PG1#Methoden#intrek(intn){if(n==1)return1;returnn+rek(n-1);}...System.out.println(rek(2)+""+rek(4));#true
+2020-06-20:14:42:17pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:42:17pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:42:22pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:42:22pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:42:25pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:42:33pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:42:33pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:42:35pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:14:42:40pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-20:23:04:08pm#PG1#Felder#int[] a= {2, 3, 5, 2, 2, }; a[3]*a[2]#true
+2020-06-20:23:05:08pm#PG1#Felder#int[] a= {7, 6, 4, 4, 7, }; a[2]*a[2]#true
+2020-06-20:23:05:23pm#PG1#Felder#<html>In Java haben Arrays eine <em>feste</em> L&auml;nge</html>#true
+2020-06-20:23:06:10pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:06:37pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:07:05pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:07:09pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:07:12pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:07:21pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:07:29pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:07:51pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:07:53pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:27:09pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:27:20pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:27:33pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:27:49pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-20:23:28:07pm#PG1#Felder#Erlaubte Anweisungen?#true
+2020-06-20:23:28:49pm#PG1#Felder#Erlaubte Anweisungen?#true
+2020-06-20:23:29:47pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#true
+2020-06-20:23:30:26pm#PG1#Felder#Syntax fuer foreach-Schleife mit int-Feld feld#false
+2020-06-20:23:30:32pm#PG1#Felder#Syntax fuer foreach-Schleife mit int-Feld feld#true
+2020-06-20:23:32:14pm#PG1#Felder#Wie k&ouml;nnen die Werte im Array feld ausgegeben werden?#true
+2020-06-20:23:42:56pm#PG1#Felder#<html>Wie erh&auml;lt man die L&auml;nge des Feldes a?</html>#true
+2020-06-20:23:43:23pm#PG1#Felder#boolean[] bf = new boolean[4]; System.out.println( Arrays.toString( bf ));#true
+2020-06-20:23:43:55pm#PG1#Print#System.out.println( "s=" + 2 + 3 );#false
+2020-06-20:23:44:33pm#PG1#Print#System.out.println( "s=" + 2 + 3 );#true
+2020-06-20:23:44:58pm#PG1#Print#System.out.println( "s=" + (2 + 3) );#false
+2020-06-20:23:45:19pm#PG1#Print#System.out.println( "s=" + (2 + 3) );#true
+2020-06-22:01:05:56am#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#true
+2020-06-22:01:06:16am#PG1#Methoden#Variablen innerhalb von Methoden behalten ihren Wert fuer den naechsten Aufruf#false
+2020-06-22:01:06:26am#PG1#Methoden#Variablen innerhalb von Methoden behalten ihren Wert fuer den naechsten Aufruf#true
+2020-06-22:01:06:39am#PG1#Methoden#<html>Mehrere Methoden k&ouml;nnen den gleichen Namen haben.</html>#true
+2020-06-22:01:06:51am#PG1#Methoden#Eine Variable in einer Methode darf den gleichen Namen haben wie eine Variable in einer anderen Methode.#true
+2020-06-22:01:06:58am#PG1#Methoden#<html>Eine Methode darf nur ein <em>return</em> enthalten.</html>#true
+2020-06-22:01:07:15am#PG1#Methoden#<html>Methoden ohne R&uuml;ckgabewert ben&ouml;tigen kein expilizites <em>return</em>.</html>#false
+2020-06-22:01:07:18am#PG1#Methoden#<html>Methoden ohne R&uuml;ckgabewert ben&ouml;tigen kein expilizites <em>return</em>.</html>#true
+2020-06-22:01:07:35am#PG1#Methoden#<html>Man kann an Methoden nur primitive Datentypen wie <em>int</em> &uuml;bergeben.</html>#true
+2020-06-22:01:07:48am#PG1#Methoden#<html>Bei einer Methode ohne Parameter schreibt man z. B. <em>double f( void )</em></html>#true
+2020-06-22:01:07:58am#PG1#Methoden#<html>Felder werden mittels <em>call by reference</em> &uuml;bergeben.</html>#true
+2020-06-22:01:08:11am#PG1#Methoden#Zur Definition einer Methode benoetigt man#true
+2020-06-22:01:08:24am#PG1#Methoden#<html>Schl&uuml;sselwort bei Methoden ohne R&uuml;ckgabe#true
+2020-06-22:01:08:57am#PG1#Methoden#Memoization steht fuer#true
+2020-06-22:01:09:25am#PG1#Methoden#Durch Memoization kann man Rechenzeit sparen.#true
+2020-06-22:01:09:45am#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#true
+2020-06-22:01:11:40am#PG1#Methoden#Primitive Datentypen werden uebergeben als#true
+2020-06-22:01:11:57am#PG1#Methoden#call by value bedeutet#true
+2020-06-22:01:12:17am#PG1#Methoden#Probleme mit rekursiven Loesungen#true
+2020-06-22:01:12:37am#PG1#Methoden#Die Methodensignatur enthaelt#true
+2020-06-22:01:13:20am#PG1#Methoden#Ist ein Aufruf in der folgenden Form erlaubt: senkrecht(x=0,y=0,laenge=20,farbe=GREEN);#false
+2020-06-22:01:13:22am#PG1#Methoden#Ist ein Aufruf in der folgenden Form erlaubt: senkrecht(x=0,y=0,laenge=20,farbe=GREEN);#true
+2020-06-22:01:13:33am#PG1#Methoden#<html>Zwei Methoden duerfen den gleichen Namen haben wenn sie sich in Typ oder Anzahl der Parameter unterscheiden.</html>#true
+2020-06-22:01:13:41am#PG1#Methoden#<html>Ist die Definition <em>double fkt( double x, y ) { ...</em> erlaubt?</html>#true
+2020-06-22:01:14:05am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:08am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:09am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:12am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:16am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:22am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:24am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:27am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:31am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:37am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:39am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:41am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:43am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:46am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:49am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:51am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:53am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:14:55am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:15:02am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:15:05am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:15:07am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:15:09am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:15:15am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-22:01:16:05am#PG1#Methoden#Was berechnet die Methode <pre>int f( int n ) { if( n < 10 ) { return n; } else { return n%10 +f(n/10);} }</pre>#true
+2020-06-22:01:16:44am#PG1#Methoden#Was passiert beim Aufruf der folgenden Methode?  <pre>int fak( int n ){  return n * fak(n-1);}</pre>#true
+2020-06-22:01:17:03am#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#false
+2020-06-22:01:17:15am#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#true
+2020-06-22:01:18:52am#PG1#Methoden#intrek(intn){if(n==1)return1;returnn+rek(n-1);}...System.out.println(rek(2)+""+rek(4));#true
+2020-06-22:12:37:32pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#true
+2020-06-22:12:37:55pm#PG1#Print#System.out.println( "s=" + 2 + 3 );#true
+2020-06-22:12:38:06pm#PG1#Print#System.out.println( "s=" + (2 + 3) );#true
+2020-06-22:12:38:18pm#PG1#Print#System.out.println( "p=" + 2 * 3 );#true
+2020-06-22:12:38:31pm#PG1#Print#Unterschied zwischen print und println#true
+2020-06-22:12:39:20pm#PG1#Print#int a = 15; System.out.printf( "%d %x", a, a );#false
+2020-06-22:12:39:29pm#PG1#Print#int a = 15; System.out.printf( "%d %x", a, a );#false
+2020-06-22:12:39:38pm#PG1#Print#int a = 15; System.out.printf( "%d %x", a, a );#false
+2020-06-22:12:40:54pm#PG1#Print#int a = 15; System.out.printf( "%d %x", a, a );#false
+2020-06-22:12:40:58pm#PG1#Print#int a = 15; System.out.printf( "%d %x", a, a );#false
+2020-06-22:12:41:23pm#PG1#Print#int a = 15; System.out.printf( "%d %x", a, a );#false
+2020-06-22:12:43:17pm#PG1#Print#int a = 15; System.out.printf( "%d %x", a, a );#true
+2020-06-22:12:43:47pm#PG1#Print#int a = 15; System.out.printf( "%d %X", a, a );#false
+2020-06-22:12:44:25pm#PG1#Print#int a = 15; System.out.printf( "%d %X", a, a );#true
+2020-06-22:12:45:33pm#PG1#Print#int a = 15; System.out.printf( "%d %o", a, a );#true
+2020-06-22:12:46:02pm#PG1#Print#System.out.printf( "%.1f", 100./3. );#true
+2020-06-22:12:46:19pm#PG1#Print#System.out.printf( "%.1e", 100./3. );#true
+2020-06-22:12:47:03pm#PG1#Print#Welcher Code erzeugt Ausgaben in der Form 55,34%?#false
+2020-06-22:12:47:10pm#PG1#Print#Welcher Code erzeugt Ausgaben in der Form 55,34%?#false
+2020-06-22:12:47:18pm#PG1#Print#Welcher Code erzeugt Ausgaben in der Form 55,34%?#true
+2020-06-22:14:16:22pm#SWE2#CleanCode#Was bedeutet <em>Ungarische Notation</em>?#true
+2020-06-22:14:16:31pm#SWE2#CleanCode#Was sind <em>Magic numbers</em>?#true
+2020-06-22:14:16:49pm#SWE2#CleanCode#Welche Schreibweise wird f&uuml;r Methodenaufrufe empfohlen?#true
+2020-06-22:14:16:59pm#SWE2#CleanCode#Was bedeutet SRP?#true
+2020-06-22:14:17:10pm#SWE2#CleanCode#Welche Abk&uuml;rzung steht f&uuml;r das Prinzip Vermeidung von Redundanzen?#true
+2020-06-22:14:17:23pm#SWE2#CleanCode#Functions should do just ... thing#false
+2020-06-22:14:38:59pm#PG1#Felder#int[] a= {5, 6, 2, 4, 6, }; a[3]*a[3]#true
+2020-06-22:14:39:09pm#PG1#Felder#int[] a= {5, 2, 2, 4, 6, }; a[0]*a[4]#true
+2020-06-22:14:39:14pm#PG1#Felder#<html>In Java haben Arrays eine <em>feste</em> L&auml;nge</html>#false
+2020-06-22:14:39:18pm#PG1#Felder#<html>In Java haben Arrays eine <em>feste</em> L&auml;nge</html>#true
+2020-06-22:14:41:16pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-22:14:41:56pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-22:14:41:59pm#PG1#Felder#Erlaubte Anweisungen?#true
+2020-06-22:14:42:14pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#true
+2020-06-22:14:42:29pm#PG1#Felder#Syntax fuer foreach-Schleife mit int-Feld feld#false
+2020-06-22:14:42:56pm#PG1#Felder#Syntax fuer foreach-Schleife mit int-Feld feld#true
+2020-06-22:14:43:06pm#PG1#Felder#Wie k&ouml;nnen die Werte im Array feld ausgegeben werden?#true
+2020-06-22:14:43:15pm#PG1#Felder#<html>Wie erh&auml;lt man die L&auml;nge des Feldes a?</html>#true
+2020-06-22:14:43:33pm#PG1#Felder#boolean[] bf = new boolean[4]; System.out.println( Arrays.toString( bf ));#true
+2020-06-22:14:43:45pm#PG1#Felder#Wie definiert man ein zweidimensionales int-Feld?#true
+2020-06-22:14:43:52pm#PG1#Felder#<html>Zweidimensionale Felder sind immer rechteckig</html>#true
+2020-06-22:14:44:36pm#PG1#Felder#int[]a={1,2,3};int[]b=a;System.out.print(b[1]);a[1]=3;System.out.print(""+b[1]);#false
+2020-06-22:14:44:45pm#PG1#Felder#int[]a={1,2,3};int[]b=a;System.out.print(b[1]);a[1]=3;System.out.print(""+b[1]);#true
+2020-06-22:14:45:27pm#PG1#Felder#int[]z={0,0,0};++z[1];++z[1];++z[2];System.out.print(z[0]+""+z[1]+""+z[2]);#true
+2020-06-22:15:14:46pm#PG1#Java#Java ist OOP#true
+2020-06-22:15:14:53pm#PG1#Java#Java ist &auml;lter als die Programmiersprache C#true
+2020-06-22:15:15:02pm#PG1#Java#Wonach wurde die Java-Technologie benannt?#false
+2020-06-22:15:15:07pm#PG1#Java#Wonach wurde die Java-Technologie benannt?#true
+2020-06-22:15:15:14pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-22:15:15:17pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-22:15:15:19pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-22:15:15:26pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-22:15:15:29pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-22:15:15:31pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#true
+2020-06-22:15:15:39pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#false
+2020-06-22:15:15:42pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#true
+2020-06-22:15:16:31pm#PG1#Java#Java ist OOP#false
+2020-06-22:15:16:32pm#PG1#Java#Java ist OOP#true
+2020-06-22:15:17:10pm#PG1#Java#Java ist &auml;lter als die Programmiersprache C#true
+2020-06-22:15:17:46pm#PG1#Java#Wonach wurde die Java-Technologie benannt?#true
+2020-06-22:15:18:34pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#true
+2020-06-22:15:19:13pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#true
+2020-06-22:15:19:51pm#PG1#Int#15 % 6#true
+2020-06-22:15:20:09pm#PG1#Int#1833 % 1000#true
+2020-06-22:15:20:33pm#PG1#Int#1563 % 1000#true
+2020-06-22:15:20:51pm#PG1#Int#18 / 7#true
+2020-06-22:15:21:02pm#PG1#Int#28 / 5#true
+2020-06-22:15:21:31pm#PG1#Int#Mit <em>i=3;j=5</em> was ergibt <em>++i * j</em>?#true
+2020-06-22:15:22:08pm#PG1#Int#Mit <em>i=2;j=2</em> was ergibt <em>i++ * j</em>?#true
+2020-06-22:15:22:17pm#PG1#Int#Mit <em>i=2;j=4</em> was ergibt <em>i++ * j</em>?#false
+2020-06-22:15:22:19pm#PG1#Int#Mit <em>i=2;j=2</em> was ergibt <em>i++ * j</em>?#true
+2020-06-22:15:22:43pm#PG1#Int#Mit <em>i=3;j=3</em> was ergibt <em>--i * j</em>?#true
+2020-06-22:15:23:14pm#PG1#Int#Mit <em>i=5;j=4</em> was ergibt <em>i-- * j</em>?#true
+2020-06-22:15:23:37pm#PG1#Int#i nach i=4; ++i;#true
+2020-06-22:15:24:30pm#PG1#Int#j nach i=4; j=3; j = ++i*j;#true
+2020-06-22:15:25:06pm#PG1#Int#j nach i=4; j=3; j = i++*j;#true
+2020-06-22:15:27:41pm#PG1#Int#6789 % 100#true
+2020-06-22:15:28:07pm#PG1#Int#6789 / 100#true
+2020-06-22:15:28:46pm#PG1#Int#int-Wert ueberschreitet groessten darstellbaren Wert#false
+2020-06-22:15:28:52pm#PG1#Int#int-Wert ueberschreitet groessten darstellbaren Wert#false
+2020-06-22:15:28:56pm#PG1#Int#int-Wert ueberschreitet groessten darstellbaren Wert#false
+2020-06-22:15:28:58pm#PG1#Int#int-Wert ueberschreitet groessten darstellbaren Wert#true
+2020-06-22:15:29:30pm#PG1#Int#Was bedeutet das R in RGB (Deutsch, Anfangsbuchstabe gro&szlig;)#true
+2020-06-22:15:44:02pm#PG1#Int#$2 ist ein nicht empfehlenswerter aber legaler Variablenname#false
+2020-06-22:15:44:03pm#PG1#Int#$2 ist ein nicht empfehlenswerter aber legaler Variablenname#true
+2020-06-22:15:44:30pm#PG1#Int#Ist int n = 10_000_000; erlaubt?#false
+2020-06-22:15:44:31pm#PG1#Int#Ist int n = 10_000_000; erlaubt?#true
+2020-06-22:15:44:53pm#PG1#Int#Ist int n = 10.; erlaubt?#true
+2020-06-22:15:45:27pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:45:35pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:45:40pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:45:54pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:45:58pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:46:00pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:46:03pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:46:06pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:46:10pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:46:14pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:46:18pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-22:15:47:11pm#PG1#Int#Welche Anweisungen sind erlaubt?#false
+2020-06-22:15:47:14pm#PG1#Int#Welche Anweisungen sind erlaubt?#false
+2020-06-22:15:47:20pm#PG1#Int#Welche Anweisungen sind erlaubt?#true
+2020-06-22:15:51:56pm#PG1#Ablaeufe#Befehl fuer Abbruch einer Schleife#true
+2020-06-22:15:52:25pm#PG1#Ablaeufe#Was bewirkt continue#false
+2020-06-22:15:52:31pm#PG1#Ablaeufe#Was bewirkt continue#true
+2020-06-22:15:53:28pm#PG1#Ablaeufe#for( int i=0; i==50; i++ )#false
+2020-06-22:15:53:43pm#PG1#Ablaeufe#for( int i=0; i==50; i++ )#false
+2020-06-22:15:54:46pm#PG1#Ablaeufe#for( int i=0; i==50; i++ )#false
+2020-06-22:15:56:23pm#PG1#Ablaeufe#In einer for Anweisung koennen Teile leer sein wie z. B. for( ;i<10; )#true
+2020-06-22:15:56:45pm#PG1#Ablaeufe#b & true ist immer wahr#false
+2020-06-22:15:56:46pm#PG1#Ablaeufe#b & true ist immer wahr#true
+2020-06-22:15:57:12pm#PG1#Ablaeufe#b | true ist immer wahr#true
+2020-06-22:15:57:39pm#PG1#Ablaeufe#boolean b = x < 10; ist erlaubt#true
+2020-06-22:15:58:12pm#PG1#Ablaeufe#boolean b = x == 10; ist erlaubt#false
+2020-06-22:15:58:13pm#PG1#Ablaeufe#boolean b = x == 10; ist erlaubt#true
+2020-06-22:15:58:34pm#PG1#Ablaeufe#boolean b = x = 10; ist erlaubt#true
+2020-06-22:15:59:00pm#PG1#Ablaeufe#boolean b = 1; setzt b auf true#false
+2020-06-22:15:59:01pm#PG1#Ablaeufe#boolean b = 1; setzt b auf true#true
+2020-06-22:15:59:43pm#PG1#Ablaeufe#Jeder switch Block muss eine Sprungmarke default haben#false
+2020-06-22:15:59:44pm#PG1#Ablaeufe#Jeder switch Block muss eine Sprungmarke default haben#true
+2020-06-22:16:00:24pm#PG1#Ablaeufe#Jeder case in einem switch Block muss mit einem break enden#false
+2020-06-22:16:00:26pm#PG1#Ablaeufe#Jeder case in einem switch Block muss mit einem break enden#true
+2020-06-22:16:01:06pm#PG1#Ablaeufe#In einem case duerfen nur konstante Ausdruecke als Wert stehen#true
+2020-06-22:16:02:04pm#PG1#Ablaeufe#In einem switch Block koennen in neuen Java Versionen int oder String Ausdruecke verwendet werden#true
+2020-06-22:16:02:49pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:02:52pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:02:56pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:02:58pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:02:59pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:00pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:01pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:02pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:04pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:05pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:07pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:09pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:10pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:12pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:14pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:15pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:03:18pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:00pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:03pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:04pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:06pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:08pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:09pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:10pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:11pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:13pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:14pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:17pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:19pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:20pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:22pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:24pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:11:26pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-22:16:12:14pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:17pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:18pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:19pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:20pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:21pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:22pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:23pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:26pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:27pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:29pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:30pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:31pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:37pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:39pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:39pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:40pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:41pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:42pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:43pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:45pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:46pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:48pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:49pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:12:50pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-22:16:53:28pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#false
+2020-06-22:16:53:32pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#false
+2020-06-22:16:53:34pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#false
+2020-06-22:16:53:38pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#true
+2020-06-22:16:54:41pm#PG1#Ablaeufe#Man kann jede for-Schleife in eine while- bzw. do/while-Schleife umwandeln. Stimmt das?#true
+2020-06-22:16:55:01pm#PG1#Ablaeufe#Was ist for(;;)?#false
+2020-06-22:16:55:04pm#PG1#Ablaeufe#Was ist for(;;)?#true
+2020-06-22:16:55:46pm#PG1#Ablaeufe#Was halten Sie von int i=2; for(i; i<10; i++)?#false
+2020-06-22:16:55:48pm#PG1#Ablaeufe#Was halten Sie von int i=2; for(i; i<10; i++)?#true
+2020-06-22:16:56:53pm#PG1#Ablaeufe#Was ist bei Schleifen zu beachten, deren Z&auml;hlvariable vom Typ double ist?#false
+2020-06-22:16:56:58pm#PG1#Ablaeufe#Was ist bei Schleifen zu beachten, deren Z&auml;hlvariable vom Typ double ist?#true
+2020-06-22:16:58:58pm#PG1#Ablaeufe#Welcher Wert wird als letztes bei for( double x=0.; x<=1.; x+=.01 ) System.out.println( x ); ausgegeben?#true
+2020-06-22:17:11:26pm#PG1#Float#double x = 11 / 3; ergibt 3#false
+2020-06-22:17:11:27pm#PG1#Float#double x = 11 / 3; ergibt 3#true
+2020-06-22:17:11:49pm#PG1#Float#double x = 11. / 3; ergibt 3#true
+2020-06-22:17:13:05pm#PG1#Float#double x = 1. * 11 / 3; ergibt 3#true
+2020-06-22:17:20:16pm#PG1#Float#Wie kann man 10 hoch 5 berechnen?#false
+2020-06-22:17:20:21pm#PG1#Float#Wie kann man 10 hoch 5 berechnen?#true
+2020-06-22:17:21:06pm#PG1#Float#double-Wert ueberschreitet groessten darstellbaren Wert#false
+2020-06-22:17:21:06pm#PG1#Float#double-Wert ueberschreitet groessten darstellbaren Wert#false
+2020-06-22:17:21:08pm#PG1#Float#double-Wert ueberschreitet groessten darstellbaren Wert#false
+2020-06-22:17:21:11pm#PG1#Float#double-Wert ueberschreitet groessten darstellbaren Wert#true
+2020-06-22:17:21:37pm#PG1#Float#Math.sqrt( -2 )#false
+2020-06-22:17:21:40pm#PG1#Float#Math.sqrt( -2 )#true
+2020-06-22:17:23:37pm#PG1#Float#Welche Konstanten sind in der Klasse Math definiert?#true
+2020-06-22:17:24:18pm#PG1#Float#mit der double-Variablen x liefert x < x +1 immer den Wert true#false
+2020-06-22:17:24:20pm#PG1#Float#mit der double-Variablen x liefert x < x +1 immer den Wert true#true
+2020-06-22:17:25:26pm#PG1#Float#Was gibt Math.ulp( x ) an?#false
+2020-06-22:17:25:28pm#PG1#Float#Was gibt Math.ulp( x ) an?#false
+2020-06-22:17:25:31pm#PG1#Float#Was gibt Math.ulp( x ) an?#true
+2020-06-22:17:26:27pm#PG1#Float#Math.random() liefert eine Zufallszahl aus dem Bereich?#false
+2020-06-22:17:26:31pm#PG1#Float#Math.random() liefert eine Zufallszahl aus dem Bereich?#true
+2020-06-22:17:27:29pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:27:29pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:27:33pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:27:42pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:27:46pm#PG1#Float#Welche Methoden in der Klasse Math runden?#true
+2020-06-22:17:27:48pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:28:32pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:28:32pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:28:32pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:28:32pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:28:32pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:28:32pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:28:57pm#PG1#Float#Welche Methoden in der Klasse Math runden?#false
+2020-06-22:17:29:54pm#PG1#Float#Unter welchem Namen findet man die Konstante +Infinity in der Java-API?#false
+2020-06-22:17:29:54pm#PG1#Float#Unter welchem Namen findet man die Konstante +Infinity in der Java-API?#false
+2020-06-22:17:29:56pm#PG1#Float#Unter welchem Namen findet man die Konstante +Infinity in der Java-API?#true
+2020-06-22:17:33:04pm#PG1#Print#Unterschied zwischen print und println#false
+2020-06-22:17:33:07pm#PG1#Print#Unterschied zwischen print und println#true
+2020-06-22:17:35:48pm#PG1#Print#System.out.printf( "%.1f", 100./3. );#false
+2020-06-22:17:35:51pm#PG1#Print#System.out.printf( "%.1f", 100./3. );#true
+2020-06-22:17:36:56pm#PG1#Print#System.out.printf( "%.1e", 100./3. );#true
+2020-06-22:17:37:40pm#PG1#Print#Welcher Code erzeugt Ausgaben in der Form 55,34%?#false
+2020-06-22:17:37:42pm#PG1#Print#Welcher Code erzeugt Ausgaben in der Form 55,34%?#false
+2020-06-22:17:37:45pm#PG1#Print#Welcher Code erzeugt Ausgaben in der Form 55,34%?#true
+2020-06-23:16:52:55pm#PG1#Methoden#<html>Methoden ohne R&uuml;ckgabewert ben&ouml;tigen kein expilizites <em>return</em>.</html>#true
+2020-06-24:11:23:16am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:23:22am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:23:26am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:23:29am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:26:48am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:26:51am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:26:55am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:26:58am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:27:04am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:27:16am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:27:26am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:27:29am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:27:32am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:11:27:34am#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-24:12:40:53pm#PG1#Methoden#Die Methodensignatur enthaelt#true
+2020-06-24:12:41:15pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#false
+2020-06-24:12:41:20pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#true
+2020-06-25:09:20:10am#SWE2#Tools#Ein Profiler ist ein Werkzeug zur Fehlersuche#true
+2020-06-25:09:20:11am#SWE2#Tools#Ein Profiler ist ein Werkzeug zur Fehlersuche#false
+2020-06-26:12:52:07pm#PG1#Java#Java ist OOP#true
+2020-06-26:12:52:12pm#PG1#Java#Java ist &auml;lter als die Programmiersprache C#true
+2020-06-26:12:52:18pm#PG1#Java#Wonach wurde die Java-Technologie benannt?#true
+2020-06-26:12:52:39pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#true
+2020-06-26:12:52:49pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#true
+2020-06-26:12:53:29pm#PG1#Int#28 % 7#true
+2020-06-26:12:53:37pm#PG1#Int#1874 % 100#true
+2020-06-26:12:53:43pm#PG1#Int#1317 % 10#true
+2020-06-26:12:53:47pm#PG1#Int#25 / 4#false
+2020-06-26:12:54:11pm#PG1#Int#18 / 4#false
+2020-06-26:12:54:38pm#PG1#Int#18 / 7#false
+2020-06-26:12:55:25pm#PG1#Int#25 / 4#false
+2020-06-26:12:56:06pm#PG1#Int#22 / 5#true
+2020-06-26:12:56:10pm#PG1#Int#16 / 7#true
+2020-06-26:12:57:11pm#PG1#Int#Mit <em>i=2;j=2</em> was ergibt <em>++i * j</em>?#true
+2020-06-26:12:57:30pm#PG1#Int#Mit <em>i=5;j=2</em> was ergibt <em>i++ * j</em>?#false
+2020-06-26:12:57:41pm#PG1#Int#Mit <em>i=5;j=3</em> was ergibt <em>i++ * j</em>?#false
+2020-06-26:12:57:55pm#PG1#Int#Mit <em>i=2;j=2</em> was ergibt <em>i++ * j</em>?#false
+2020-06-26:12:59:52pm#PG1#Int#Mit <em>i=3;j=3</em> was ergibt <em>i++ * j</em>?#true
+2020-06-26:13:00:01pm#PG1#Int#Mit <em>i=3;j=3</em> was ergibt <em>--i * j</em>?#true
+2020-06-26:13:00:17pm#PG1#Int#Mit <em>i=2;j=3</em> was ergibt <em>i-- * j</em>?#false
+2020-06-26:13:00:19pm#PG1#Int#Mit <em>i=2;j=2</em> was ergibt <em>i-- * j</em>?#true
+2020-06-26:13:00:55pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#false
+2020-06-26:13:00:58pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#true
+2020-06-26:13:01:07pm#PG1#Methoden#Variablen innerhalb von Methoden behalten ihren Wert fuer den naechsten Aufruf#true
+2020-06-26:13:01:15pm#PG1#Methoden#<html>Mehrere Methoden k&ouml;nnen den gleichen Namen haben.</html>#true
+2020-06-26:13:01:23pm#PG1#Methoden#Eine Variable in einer Methode darf den gleichen Namen haben wie eine Variable in einer anderen Methode.#true
+2020-06-26:13:01:30pm#PG1#Methoden#<html>Eine Methode darf nur ein <em>return</em> enthalten.</html>#true
+2020-06-26:13:01:37pm#PG1#Methoden#<html>Methoden ohne R&uuml;ckgabewert ben&ouml;tigen kein expilizites <em>return</em>.</html>#false
+2020-06-26:13:01:38pm#PG1#Methoden#<html>Methoden ohne R&uuml;ckgabewert ben&ouml;tigen kein expilizites <em>return</em>.</html>#true
+2020-06-26:13:01:45pm#PG1#Methoden#<html>Man kann an Methoden nur primitive Datentypen wie <em>int</em> &uuml;bergeben.</html>#true
+2020-06-26:13:01:54pm#PG1#Methoden#<html>Bei einer Methode ohne Parameter schreibt man z. B. <em>double f( void )</em></html>#false
+2020-06-26:13:01:55pm#PG1#Methoden#<html>Bei einer Methode ohne Parameter schreibt man z. B. <em>double f( void )</em></html>#true
+2020-06-26:19:06:04pm#SWE2#CleanCode#Was bedeutet <em>Ungarische Notation</em>?#true
+2020-06-26:19:06:22pm#SWE2#CleanCode#Was sind <em>Magic numbers</em>?#false
+2020-06-26:19:06:24pm#SWE2#CleanCode#Was sind <em>Magic numbers</em>?#false
+2020-06-26:19:06:26pm#SWE2#CleanCode#Was sind <em>Magic numbers</em>?#true
+2020-06-26:19:06:45pm#SWE2#CleanCode#Welche Schreibweise wird f&uuml;r Methodenaufrufe empfohlen?#false
+2020-06-26:19:06:47pm#SWE2#CleanCode#Welche Schreibweise wird f&uuml;r Methodenaufrufe empfohlen?#true
+2020-06-26:19:06:55pm#SWE2#CleanCode#Was bedeutet SRP?#false
+2020-06-26:19:06:57pm#SWE2#CleanCode#Was bedeutet SRP?#true
+2020-06-26:19:07:11pm#SWE2#CleanCode#Welche Abk&uuml;rzung steht f&uuml;r das Prinzip Vermeidung von Redundanzen?#true
+2020-06-26:19:07:23pm#SWE2#CleanCode#Functions should do just ... thing#false
+2020-06-26:19:07:32pm#SWE2#CleanCode#Functions should do just ... thing#false
+2020-06-26:19:07:45pm#SWE2#CleanCode#Functions should do just ... thing#true
+2020-06-26:19:08:09pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:10pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:12pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:13pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:14pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:14pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:14pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:14pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:14pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:15pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:15pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:15pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:15pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:15pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:16pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:16pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:16pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:16pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:16pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:16pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:17pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:17pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:17pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:17pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:17pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:17pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:18pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:18pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:18pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:18pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-26:19:08:18pm#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#false
+2020-06-27:08:24:20am#SWE2#CleanCode#Was geh&ouml;rt zur <em>Vertikalen Formatierung</em> einer Klasse?#true
+2020-06-27:08:24:42am#SWE2#CleanCode#Welche Abk&uuml;rzung steht f&uuml;r das Prinzip Vermeidung von Redundanzen?#true
+2020-06-27:08:25:07am#SWE2#CleanCode#Was sind <em>Magic numbers</em>?#true
+2020-06-27:21:30:01pm#PG1#Felder#int[] a= {4, 5, 6, 5, 6, }; a[2]*a[0]#true
+2020-06-27:21:30:36pm#PG1#Felder#int[] a= {6, 4, 5, 4, 7, }; a[3]*a[4]#true
+2020-06-27:21:30:50pm#PG1#Felder#<html>In Java haben Arrays eine <em>feste</em> L&auml;nge</html>#true
+2020-06-27:21:31:37pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-27:21:31:40pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-27:21:31:58pm#PG1#Felder#Erlaubte Anweisungen?#true
+2020-06-29:11:32:50am#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#false
+2020-06-29:11:33:03am#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#false
+2020-06-29:11:33:06am#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#true
+2020-06-29:11:35:26am#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#false
+2020-06-29:11:35:31am#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#true
+2020-06-29:11:36:41am#PG1#Methoden#Variablen innerhalb von Methoden behalten ihren Wert fuer den naechsten Aufruf#true
+2020-06-29:11:36:55am#PG1#Methoden#<html>Mehrere Methoden k&ouml;nnen den gleichen Namen haben.</html>#true
+2020-06-29:11:37:07am#PG1#Methoden#Eine Variable in einer Methode darf den gleichen Namen haben wie eine Variable in einer anderen Methode.#true
+2020-06-29:11:37:14am#PG1#Methoden#<html>Eine Methode darf nur ein <em>return</em> enthalten.</html>#true
+2020-06-29:11:37:30am#PG1#Methoden#<html>Methoden ohne R&uuml;ckgabewert ben&ouml;tigen kein expilizites <em>return</em>.</html>#true
+2020-06-29:11:37:38am#PG1#Methoden#<html>Man kann an Methoden nur primitive Datentypen wie <em>int</em> &uuml;bergeben.</html>#true
+2020-06-29:11:37:50am#PG1#Methoden#<html>Bei einer Methode ohne Parameter schreibt man z. B. <em>double f( void )</em></html>#true
+2020-06-29:11:38:05am#PG1#Methoden#<html>Felder werden mittels <em>call by reference</em> &uuml;bergeben.</html>#true
+2020-06-29:11:38:25am#PG1#Methoden#<em>call by reference</em> kann man vergleichen mit#false
+2020-06-29:11:38:30am#PG1#Methoden#<em>call by reference</em> kann man vergleichen mit#false
+2020-06-29:11:38:37am#PG1#Methoden#<em>call by reference</em> kann man vergleichen mit#true
+2020-06-29:11:39:46am#PG1#Methoden#Zur Definition einer Methode benoetigt man#true
+2020-06-29:11:40:00am#PG1#Methoden#<html>Schl&uuml;sselwort bei Methoden ohne R&uuml;ckgabe#true
+2020-06-29:11:40:18am#PG1#Methoden#Memoization steht fuer#true
+2020-06-29:11:41:59am#PG1#Methoden#Durch Memoization kann man Rechenzeit sparen.#true
+2020-06-29:11:42:06am#PG1#Methoden#Durch Memoization ben&ouml;tigt mehr Speicherplatz.#true
+2020-06-29:11:42:20am#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#false
+2020-06-29:11:42:28am#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#false
+2020-06-29:11:42:31am#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#true
+2020-06-29:12:50:48pm#PG1#Methoden#Primitive Datentypen werden uebergeben als#true
+2020-06-29:12:50:58pm#PG1#Methoden#call by value bedeutet#true
+2020-06-29:12:51:16pm#PG1#Methoden#Probleme mit rekursiven Loesungen#true
+2020-06-29:12:51:33pm#PG1#Methoden#Die Methodensignatur enthaelt#true
+2020-06-29:12:51:59pm#PG1#Methoden#Ist ein Aufruf in der folgenden Form erlaubt: senkrecht(x=0,y=0,laenge=20,farbe=GREEN);#true
+2020-06-29:12:52:11pm#PG1#Methoden#<html>Zwei Methoden duerfen den gleichen Namen haben wenn sie sich in Typ oder Anzahl der Parameter unterscheiden.</html>#true
+2020-06-29:12:52:24pm#PG1#Methoden#<html>Ist die Definition <em>double fkt( double x, y ) { ...</em> erlaubt?</html>#true
+2020-06-29:12:53:20pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-29:12:54:30pm#PG1#Methoden#Gute Namen fuer Methoden?#false
+2020-06-29:12:57:50pm#PG1#Java#Java ist OOP#true
+2020-06-29:12:57:54pm#PG1#Java#Java ist &auml;lter als die Programmiersprache C#true
+2020-06-29:12:58:08pm#PG1#Java#Wonach wurde die Java-Technologie benannt?#false
+2020-06-29:12:58:12pm#PG1#Java#Wonach wurde die Java-Technologie benannt?#true
+2020-06-29:12:58:18pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-29:12:58:20pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-29:12:58:21pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#true
+2020-06-29:12:58:27pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#true
+2020-06-29:14:05:15pm#PG1#Felder#int[] a= {2, 4, 3, 2, 7, }; a[0]*a[3]#true
+2020-06-29:14:05:49pm#PG1#Felder#int[] a= {5, 6, 6, 3, 7, }; a[1]*a[3]#true
+2020-06-29:14:06:21pm#PG1#Felder#<html>In Java haben Arrays eine <em>feste</em> L&auml;nge</html>#true
+2020-06-29:14:08:45pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:08:58pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:09:01pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:09:04pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:09:08pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:10:23pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:10:26pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:10:28pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:10:31pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:10:34pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:10:40pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-06-29:14:11:36pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#true
+2020-06-29:14:12:23pm#PG1#Felder#Syntax fuer foreach-Schleife mit int-Feld feld#false
+2020-06-29:14:12:25pm#PG1#Felder#Syntax fuer foreach-Schleife mit int-Feld feld#false
+2020-06-29:14:12:27pm#PG1#Felder#Syntax fuer foreach-Schleife mit int-Feld feld#true
+2020-06-29:14:13:37pm#PG1#Felder#Wie k&ouml;nnen die Werte im Array feld ausgegeben werden?#false
+2020-06-29:14:13:37pm#PG1#Felder#Wie k&ouml;nnen die Werte im Array feld ausgegeben werden?#true
+2020-06-29:14:14:46pm#PG1#Felder#<html>Wie erh&auml;lt man die L&auml;nge des Feldes a?</html>#false
+2020-06-29:14:14:47pm#PG1#Felder#<html>Wie erh&auml;lt man die L&auml;nge des Feldes a?</html>#false
+2020-06-29:14:14:51pm#PG1#Felder#<html>Wie erh&auml;lt man die L&auml;nge des Feldes a?</html>#true
+2020-06-29:14:14:55pm#PG1#Felder#<html>Wie erh&auml;lt man die L&auml;nge des Feldes a?</html>#false
+2020-06-29:14:15:01pm#PG1#Felder#<html>Wie erh&auml;lt man die L&auml;nge des Feldes a?</html>#true
+2020-06-29:14:16:08pm#PG1#Felder#boolean[] bf = new boolean[4]; System.out.println( Arrays.toString( bf ));#true
+2020-06-29:14:16:59pm#PG1#Felder#Wie definiert man ein zweidimensionales int-Feld?#false
+2020-06-29:14:16:59pm#PG1#Felder#Wie definiert man ein zweidimensionales int-Feld?#true
+2020-06-29:14:16:59pm#PG1#Felder#Wie definiert man ein zweidimensionales int-Feld?#false
+2020-06-29:14:17:02pm#PG1#Felder#Wie definiert man ein zweidimensionales int-Feld?#true
+2020-06-29:14:17:47pm#PG1#Felder#<html>Zweidimensionale Felder sind immer rechteckig</html>#false
+2020-06-29:14:17:47pm#PG1#Felder#<html>Zweidimensionale Felder sind immer rechteckig</html>#true
+2020-06-29:14:17:52pm#PG1#Felder#<html>Zweidimensionale Felder sind immer rechteckig</html>#true
+2020-06-29:14:17:53pm#PG1#Felder#<html>Zweidimensionale Felder sind immer rechteckig</html>#true
+2020-06-29:15:45:31pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#false
+2020-06-29:15:45:32pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#false
+2020-06-29:15:45:33pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#false
+2020-06-29:15:45:35pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#false
+2020-06-29:15:45:39pm#PG1#Methoden#Befehl fuer Ruecksprung aus Methode#true
+2020-06-29:15:46:45pm#PG1#Methoden#Variablen innerhalb von Methoden behalten ihren Wert fuer den naechsten Aufruf#true
+2020-06-29:15:48:30pm#PG1#Methoden#Eine Variable in einer Methode darf den gleichen Namen haben wie eine Variable in einer anderen Methode.#false
+2020-06-29:15:48:31pm#PG1#Methoden#Eine Variable in einer Methode darf den gleichen Namen haben wie eine Variable in einer anderen Methode.#true
+2020-06-29:15:49:51pm#PG1#Methoden#<html>Methoden ohne R&uuml;ckgabewert ben&ouml;tigen kein expilizites <em>return</em>.</html>#true
+2020-06-29:15:51:17pm#PG1#Methoden#<html>Bei einer Methode ohne Parameter schreibt man z. B. <em>double f( void )</em></html>#true
+2020-06-29:15:51:55pm#PG1#Methoden#<html>Felder werden mittels <em>call by reference</em> &uuml;bergeben.</html>#true
+2020-06-29:15:54:23pm#PG1#Methoden#Zur Definition einer Methode benoetigt man#false
+2020-06-29:15:54:28pm#PG1#Methoden#Zur Definition einer Methode benoetigt man#false
+2020-06-29:15:54:31pm#PG1#Methoden#Zur Definition einer Methode benoetigt man#false
+2020-06-29:15:54:34pm#PG1#Methoden#Zur Definition einer Methode benoetigt man#false
+2020-06-29:15:54:40pm#PG1#Methoden#Zur Definition einer Methode benoetigt man#false
+2020-06-29:15:56:00pm#PG1#Methoden#Memoization steht fuer#true
+2020-06-29:16:01:10pm#PG1#Methoden#Durch Memoization kann man Rechenzeit sparen.#true
+2020-06-29:16:02:02pm#PG1#Methoden#Durch Memoization ben&ouml;tigt mehr Speicherplatz.#true
+2020-06-29:16:02:32pm#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#false
+2020-06-29:16:02:37pm#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#false
+2020-06-29:16:02:40pm#PG1#Methoden#Rekursion ohne Abbruchbedingung fuehrt zu#true
+2020-06-29:16:03:28pm#PG1#Methoden#Primitive Datentypen werden uebergeben als#true
+2020-06-29:16:03:46pm#PG1#Methoden#call by value bedeutet#true
+2020-06-29:16:05:07pm#PG1#Methoden#Probleme mit rekursiven Loesungen#false
+2020-06-29:16:05:07pm#PG1#Methoden#Probleme mit rekursiven Loesungen#false
+2020-06-29:16:05:09pm#PG1#Methoden#Probleme mit rekursiven Loesungen#false
+2020-06-29:16:05:10pm#PG1#Methoden#Probleme mit rekursiven Loesungen#false
+2020-06-29:16:05:13pm#PG1#Methoden#Probleme mit rekursiven Loesungen#false
+2020-06-29:16:07:19pm#PG1#Methoden#Ist ein Aufruf in der folgenden Form erlaubt: senkrecht(x=0,y=0,laenge=20,farbe=GREEN);#true
+2020-06-29:16:09:04pm#PG1#Methoden#<html>Ist die Definition <em>double fkt( double x, y ) { ...</em> erlaubt?</html>#true
+2020-06-29:16:09:04pm#PG1#Methoden#<html>Ist die Definition <em>double fkt( double x, y ) { ...</em> erlaubt?</html>#false
+2020-06-29:16:12:06pm#PG1#Methoden#Was passiert beim Aufruf der folgenden Methode?  <pre>int fak( int n ){  return n * fak(n-1);}</pre>#false
+2020-06-29:16:12:08pm#PG1#Methoden#Was passiert beim Aufruf der folgenden Methode?  <pre>int fak( int n ){  return n * fak(n-1);}</pre>#true
+2020-06-29:16:12:50pm#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#true
+2020-06-29:16:12:50pm#PG1#Methoden#Was bedeutet <me>stack overflow</em>?#false
+2020-06-29:16:14:06pm#PG1#Methoden#intrek(intn){if(n==1)return1;returnn+rek(n-1);}...System.out.println(rek(2)+""+rek(4));#false
+2020-06-29:16:14:06pm#PG1#Methoden#intrek(intn){if(n==1)return1;returnn+rek(n-1);}...System.out.println(rek(2)+""+rek(4));#false
+2020-06-29:16:14:06pm#PG1#Methoden#intrek(intn){if(n==1)return1;returnn+rek(n-1);}...System.out.println(rek(2)+""+rek(4));#false
+2020-06-29:16:14:07pm#PG1#Methoden#intrek(intn){if(n==1)return1;returnn+rek(n-1);}...System.out.println(rek(2)+""+rek(4));#false
+2020-06-29:16:14:08pm#PG1#Methoden#intrek(intn){if(n==1)return1;returnn+rek(n-1);}...System.out.println(rek(2)+""+rek(4));#false
+2020-06-29:16:14:13pm#PG1#Methoden#intrek(intn){if(n==1)return1;returnn+rek(n-1);}...System.out.println(rek(2)+""+rek(4));#false
+2020-06-29:16:47:42pm#PG1#Java#Java ist OOP#true
+2020-06-29:16:48:25pm#PG1#Java#Java ist &auml;lter als die Programmiersprache C#true
+2020-06-29:16:48:56pm#PG1#Java#Wonach wurde die Java-Technologie benannt?#true
+2020-06-29:16:49:54pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-29:16:49:57pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-29:16:50:03pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#false
+2020-06-29:16:50:07pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#true
+2020-06-29:16:50:58pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#false
+2020-06-29:16:51:01pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#false
+2020-06-29:16:51:04pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#false
+2020-06-29:16:51:07pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#true
+2020-06-29:16:51:44pm#PG1#Int#13 % 4#true
+2020-06-29:16:52:34pm#PG1#Int#1312 % 100#true
+2020-06-29:16:52:54pm#PG1#Int#1567 % 1000#true
+2020-06-29:16:53:07pm#PG1#Int#20 / 7#true
+2020-06-29:16:54:06pm#PG1#Int#30 / 4#true
+2020-06-29:16:55:14pm#PG1#Int#Mit <em>i=3;j=4</em> was ergibt <em>++i * j</em>?#true
+2020-06-29:16:56:02pm#PG1#Int#Mit <em>i=3;j=5</em> was ergibt <em>i++ * j</em>?#true
+2020-06-29:16:56:30pm#PG1#Int#Mit <em>i=2;j=4</em> was ergibt <em>--i * j</em>?#true
+2020-06-29:16:56:47pm#PG1#Int#Mit <em>i=2;j=2</em> was ergibt <em>i-- * j</em>?#false
+2020-06-29:16:57:29pm#PG1#Int#Mit <em>i=4;j=5</em> was ergibt <em>i-- * j</em>?#false
+2020-06-29:16:57:44pm#PG1#Int#Mit <em>i=2;j=5</em> was ergibt <em>i-- * j</em>?#false
+2020-06-29:16:57:52pm#PG1#Int#Mit <em>i=2;j=5</em> was ergibt <em>i-- * j</em>?#true
+2020-06-29:16:58:22pm#PG1#Int#i nach i=4; ++i;#true
+2020-06-29:16:59:02pm#PG1#Int#j nach i=4; j=3; j = ++i*j;#true
+2020-06-29:17:00:02pm#PG1#Int#j nach i=4; j=3; j = i++*j;#true
+2020-06-29:17:00:20pm#PG1#Int#6789 % 100#false
+2020-06-29:17:00:24pm#PG1#Int#6789 % 100#true
+2020-06-29:17:00:54pm#PG1#Int#6789 / 100#true
+2020-06-29:17:01:36pm#PG1#Int#int-Wert ueberschreitet groessten darstellbaren Wert#true
+2020-06-29:17:01:53pm#PG1#Int#Was bedeutet das R in RGB (Deutsch, Anfangsbuchstabe gro&szlig;)#true
+2020-06-29:17:03:04pm#PG1#Int#$2 ist ein nicht empfehlenswerter aber legaler Variablenname#false
+2020-06-29:17:03:05pm#PG1#Int#$2 ist ein nicht empfehlenswerter aber legaler Variablenname#true
+2020-06-29:17:04:48pm#PG1#Int#Ist int n = 10_000_000; erlaubt?#false
+2020-06-29:17:04:49pm#PG1#Int#Ist int n = 10_000_000; erlaubt?#true
+2020-06-29:17:05:22pm#PG1#Int#Ist int n = 10.; erlaubt?#true
+2020-06-29:17:06:05pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:06:11pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:06:14pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:06:21pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:06:24pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:06:28pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:06:33pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:06:45pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:06:48pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:06:50pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:17:08:10pm#PG1#Int#Welche Anweisungen sind erlaubt?#true
+2020-06-29:17:08:38pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:18:17:11pm#PG1#Int#Ist int n = 10.; erlaubt?#true
+2020-06-29:18:17:31pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:18:17:35pm#PG1#Int#Schlechte Namen fuer Variablen?#false
+2020-06-29:18:17:51pm#PG1#Int#Schlechte Namen fuer Variablen?#true
+2020-06-29:18:18:52pm#PG1#Int#Schlechte Namen fuer Variablen?#true
+2020-06-29:18:21:18pm#PG1#Methoden#call by value bedeutet#true
+2020-06-29:18:21:30pm#PG1#Methoden#Probleme mit rekursiven Loesungen#true
+2020-06-29:18:23:55pm#PG1#Java#Java ist OOP#true
+2020-06-29:18:24:01pm#PG1#Java#Java ist &auml;lter als die Programmiersprache C#true
+2020-06-29:18:24:09pm#PG1#Java#Wonach wurde die Java-Technologie benannt?#true
+2020-06-29:18:24:15pm#PG1#Java#Von welcher Firma wurde die Java-Technologie entwickelt?#true
+2020-06-29:18:24:22pm#PG1#Java#Welche dieser Programmiersprachen ist am aehnlichsten zu Java?#true
+2020-06-29:18:24:38pm#PG1#Int#26 % 6#true
+2020-06-29:18:24:46pm#PG1#Int#1705 % 100#true
+2020-06-29:18:24:52pm#PG1#Int#2063 % 100#true
+2020-06-29:18:25:10pm#PG1#Int#16 / 7#true
+2020-06-29:18:25:20pm#PG1#Int#18 / 7#true
+2020-06-29:18:25:39pm#PG1#Int#Mit <em>i=3;j=3</em> was ergibt <em>++i * j</em>?#true
+2020-06-29:18:25:51pm#PG1#Int#Mit <em>i=4;j=2</em> was ergibt <em>i++ * j</em>?#true
+2020-06-29:18:25:59pm#PG1#Int#Mit <em>i=4;j=3</em> was ergibt <em>--i * j</em>?#true
+2020-06-29:18:26:07pm#PG1#Int#Mit <em>i=4;j=5</em> was ergibt <em>i-- * j</em>?#true
+2020-06-29:18:26:17pm#PG1#Int#i nach i=4; ++i;#true
+2020-06-29:18:26:27pm#PG1#Int#j nach i=4; j=3; j = ++i*j;#true
+2020-06-29:18:26:40pm#PG1#Int#j nach i=4; j=3; j = i++*j;#true
+2020-06-29:18:26:47pm#PG1#Int#6789 % 100#true
+2020-06-29:18:26:56pm#PG1#Int#6789 / 100#true
+2020-06-29:18:27:10pm#PG1#Int#int-Wert ueberschreitet groessten darstellbaren Wert#true
+2020-06-29:18:27:24pm#PG1#Int#Was bedeutet das R in RGB (Deutsch, Anfangsbuchstabe gro&szlig;)#true
+2020-06-29:18:27:36pm#PG1#Int#$2 ist ein nicht empfehlenswerter aber legaler Variablenname#true
+2020-06-29:18:27:50pm#PG1#Int#Ist int n = 10_000_000; erlaubt?#true
+2020-06-29:18:27:57pm#PG1#Int#Ist int n = 10.; erlaubt?#true
+2020-06-29:18:28:07pm#PG1#Int#Schlechte Namen fuer Variablen?#true
+2020-06-29:18:28:23pm#PG1#Int#Welche Anweisungen sind erlaubt?#true
+2020-06-29:18:28:43pm#PG1#Ablaeufe#Befehl fuer Abbruch einer Schleife#true
+2020-06-29:18:28:55pm#PG1#Ablaeufe#Was bewirkt continue#true
+2020-06-29:18:29:17pm#PG1#Ablaeufe#for( int i=0; i==50; i++ )#true
+2020-06-29:18:29:35pm#PG1#Ablaeufe#if( int i=0; i<=50; i++ )#true
+2020-06-29:18:29:51pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:30:06pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:30:24pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:30:39pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:32:55pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:33:09pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:33:31pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:33:41pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:33:58pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:34:19pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:18:35:21pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#true
+2020-06-29:18:35:48pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:19:00:44pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#true
+2020-06-29:19:01:14pm#PG1#Ablaeufe#In einer for Anweisung koennen Teile leer sein wie z. B. for( ;i<10; )#true
+2020-06-29:19:01:19pm#PG1#Ablaeufe#b & true ist immer wahr#true
+2020-06-29:19:01:32pm#PG1#Ablaeufe#b | true ist immer wahr#true
+2020-06-29:19:01:47pm#PG1#Ablaeufe#boolean b = x < 10; ist erlaubt#true
+2020-06-29:19:02:15pm#PG1#Ablaeufe#boolean b = x == 10; ist erlaubt#true
+2020-06-29:19:02:21pm#PG1#Ablaeufe#boolean b = x = 10; ist erlaubt#false
+2020-06-29:19:02:24pm#PG1#Ablaeufe#boolean b = x = 10; ist erlaubt#true
+2020-06-29:19:02:34pm#PG1#Ablaeufe#boolean b = 1; setzt b auf true#true
+2020-06-29:19:02:45pm#PG1#Ablaeufe#Jeder switch Block muss eine Sprungmarke default haben#false
+2020-06-29:19:02:46pm#PG1#Ablaeufe#Jeder switch Block muss eine Sprungmarke default haben#true
+2020-06-29:19:02:58pm#PG1#Ablaeufe#Jeder case in einem switch Block muss mit einem break enden#false
+2020-06-29:19:02:59pm#PG1#Ablaeufe#Jeder case in einem switch Block muss mit einem break enden#true
+2020-06-29:19:03:17pm#PG1#Ablaeufe#In einem case duerfen nur konstante Ausdruecke als Wert stehen#true
+2020-06-29:19:03:43pm#PG1#Ablaeufe#In einem switch Block koennen in neuen Java Versionen int oder String Ausdruecke verwendet werden#true
+2020-06-29:19:04:35pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-29:19:05:14pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-29:19:06:01pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-29:19:10:26pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-29:19:11:01pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-29:19:11:46pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-29:19:11:56pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-29:19:13:31pm#PG1#Ablaeufe#Wert m nach for( m=1; m<12; m+=7);#false
+2020-06-29:19:13:42pm#PG1#Ablaeufe#Wert m nach for( m=35; m>10; m = m / 2);#false
+2020-06-29:19:14:04pm#PG1#Ablaeufe#Wert m nach for( m=35; m>10; m = m / 2);#false
+2020-06-29:19:15:26pm#PG1#Ablaeufe#Wert m nach for( m=35; m>10; m = m / 2);#false
+2020-06-29:19:44:19pm#PG1#Ablaeufe#Befehl fuer Abbruch einer Schleife#true
+2020-06-29:19:44:45pm#PG1#Ablaeufe#Was bewirkt continue#true
+2020-06-29:19:46:06pm#PG1#Ablaeufe#for( int i=0; i==50; i++ )#true
+2020-06-29:19:47:22pm#PG1#Ablaeufe#if( int i=0; i<=50; i++ )#false
+2020-06-29:19:47:28pm#PG1#Ablaeufe#if( int i=0; i<=50; i++ )#false
+2020-06-29:19:47:37pm#PG1#Ablaeufe#if( int i=0; i<=50; i++ )#false
+2020-06-29:19:47:46pm#PG1#Ablaeufe#if( int i=0; i<=50; i++ )#false
+2020-06-29:19:48:02pm#PG1#Ablaeufe#if( int i=0; i<=50; i++ )#false
+2020-06-29:19:51:04pm#PG1#Ablaeufe#if( int i=0; i<=50; i++ )#true
+2020-06-29:19:52:56pm#PG1#Ablaeufe#for( int i=0; i<10; i+=3){ System.out.print( i + "-");}#true
+2020-06-29:19:56:08pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:19:57:18pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:19:57:40pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:19:57:53pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:19:58:01pm#PG1#Ablaeufe#In einer for Anweisung koennen Teile leer sein wie z. B. for( ;i<10; )#true
+2020-06-29:19:58:13pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:19:58:26pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:19:58:33pm#PG1#Ablaeufe#if( 50 <= p <= 100 )#false
+2020-06-29:19:59:04pm#PG1#Ablaeufe#b & true ist immer wahr#true
+2020-06-29:19:59:29pm#PG1#Ablaeufe#b | true ist immer wahr#true
+2020-06-29:19:59:45pm#PG1#Ablaeufe#boolean b = x < 10; ist erlaubt#false
+2020-06-29:19:59:49pm#PG1#Ablaeufe#boolean b = x < 10; ist erlaubt#true
+2020-06-29:20:00:04pm#PG1#Ablaeufe#boolean b = x == 10; ist erlaubt#false
+2020-06-29:20:00:06pm#PG1#Ablaeufe#boolean b = x == 10; ist erlaubt#true
+2020-06-29:20:06:22pm#PG1#Ablaeufe#boolean b = x = 10; ist erlaubt#true
+2020-06-29:20:06:47pm#PG1#Ablaeufe#boolean b = 1; setzt b auf true#true
+2020-06-29:20:07:04pm#PG1#Ablaeufe#Jeder switch Block muss eine Sprungmarke default haben#true
+2020-06-29:20:09:42pm#PG1#Ablaeufe#Jeder case in einem switch Block muss mit einem break enden#false
+2020-06-29:20:09:43pm#PG1#Ablaeufe#Jeder case in einem switch Block muss mit einem break enden#true
+2020-06-29:20:10:12pm#PG1#Ablaeufe#In einem case duerfen nur konstante Ausdruecke als Wert stehen#false
+2020-06-29:20:10:13pm#PG1#Ablaeufe#In einem case duerfen nur konstante Ausdruecke als Wert stehen#true
+2020-06-29:20:11:02pm#PG1#Ablaeufe#In einem switch Block koennen in neuen Java Versionen int oder String Ausdruecke verwendet werden#true
+2020-06-29:20:11:07pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#true
+2020-06-29:20:11:31pm#PG1#Ablaeufe#Man kann jede for-Schleife in eine while- bzw. do/while-Schleife umwandeln. Stimmt das?#false
+2020-06-29:20:11:32pm#PG1#Ablaeufe#Man kann jede for-Schleife in eine while- bzw. do/while-Schleife umwandeln. Stimmt das?#true
+2020-06-29:20:12:03pm#PG1#Ablaeufe#Was ist for(;;)?#true
+2020-06-29:20:12:19pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-29:20:12:24pm#PG1#Ablaeufe#Was halten Sie von int i=2; for(i; i<10; i++)?#true
+2020-06-29:20:12:50pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-29:20:13:01pm#PG1#Ablaeufe#Wert m nach for( m=1; m<15; m*=2);#false
+2020-06-29:20:13:25pm#PG1#Ablaeufe#Was ist bei Schleifen zu beachten, deren Z&auml;hlvariable vom Typ double ist?#false
+2020-06-29:20:13:36pm#PG1#Ablaeufe#Was ist bei Schleifen zu beachten, deren Z&auml;hlvariable vom Typ double ist?#true
+2020-06-29:20:14:15pm#PG1#Ablaeufe#Welcher Wert wird als letztes bei for( double x=0.; x<=1.; x+=.01 ) System.out.println( x ); ausgegeben?#true
+2020-06-29:20:14:19pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#false
+2020-06-29:20:14:21pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#false
+2020-06-29:20:14:25pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#false
+2020-06-29:20:14:33pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#false
+2020-06-29:20:14:37pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#false
+2020-06-29:20:14:40pm#PG1#Ablaeufe#Welche Schleifen sind abweisend (mit Kopfpruefung)#false
+2020-06-29:20:15:23pm#PG1#Ablaeufe#Man kann jede for-Schleife in eine while- bzw. do/while-Schleife umwandeln. Stimmt das?#false
+2020-06-29:20:15:24pm#PG1#Ablaeufe#Man kann jede for-Schleife in eine while- bzw. do/while-Schleife umwandeln. Stimmt das?#true
+2020-06-29:20:18:15pm#PG1#Ablaeufe#Was ist for(;;)?#true
+2020-06-29:20:18:37pm#PG1#Ablaeufe#Was halten Sie von int i=2; for(i; i<10; i++)?#true
+2020-06-29:20:19:44pm#PG1#Ablaeufe#Was ist bei Schleifen zu beachten, deren Z&auml;hlvariable vom Typ double ist?#true
+2020-06-29:20:20:58pm#PG1#Ablaeufe#for(inti=0;i<30;i+=10){for(intj=0;j<3;j++){System.out.print(i+j+"");}}#true
+2020-06-29:20:21:51pm#PG1#Ablaeufe#Welcher Wert wird als letztes bei for( double x=0.; x<=1.; x+=.01 ) System.out.println( x ); ausgegeben?#false
+2020-06-29:20:21:57pm#PG1#Ablaeufe#Welcher Wert wird als letztes bei for( double x=0.; x<=1.; x+=.01 ) System.out.println( x ); ausgegeben?#true
+2020-06-29:20:23:06pm#PG1#Ablaeufe#for(intj=10;j<=1000;j*=10){for(inti=-1;i<=1;i++){System.out.print(i+j+"");}}#true
+2020-06-29:20:23:41pm#PG1#Ablaeufe#for(inti=0;i<30;i+=10){for(intj=0;j<3;j++){System.out.print(i+j+"");}}#false
+2020-06-29:20:23:44pm#PG1#Ablaeufe#for(intj=1;j<10;j++){System.out.print(j%2);}#false
+2020-06-29:20:24:04pm#PG1#Ablaeufe#for(inti=0;i<30;i+=10){for(intj=0;j<3;j++){System.out.print(i+j+"");}}#true
+2020-06-29:20:26:07pm#PG1#Ablaeufe#for(intj=10;j<=1000;j*=10){for(inti=-1;i<=1;i++){System.out.print(i+j+"");}}#false
+2020-06-29:20:26:13pm#PG1#Ablaeufe#for(intj=10;j<=1000;j*=10){for(inti=-1;i<=1;i++){System.out.print(i+j+"");}}#false
+2020-06-29:20:40:31pm#PG1#Ablaeufe#for(inti=1;i<=3;i++){for(intj=0;j<i;j++){System.out.print("*");}System.out.print("");}#true
+2020-06-29:21:46:16pm#PG1#Java#Java ist &auml;lter als die Programmiersprache C#true
+2020-06-30:08:42:05am#PG1#Ablaeufe#for(inti=1;i<=3;i++){for(intj=0;j<i;j++){System.out.print("*");}System.out.print("");}#false
+2020-07-07:10:09:16am#PG1#Ablaeufe#Was halten Sie von <pre>int i=2; for(i; i<10; i++)</pre>?#true
+2020-07-07:10:10:32am#PG1#Ablaeufe#Welcher Wert wird als letztes ausgegeben bei <pre>for( double x=0.; x<=1.; x+=.01 ) System.out.println( x );</pre>#true
+2020-07-07:10:14:37am#PG1#Methoden#Zu einem Methodennamen gibt es zwei Methoden: eine mit float und eine mit boolean Parameter. Was passiert, wenn man die Methode mit einem int-Wert als Argument aufruft?#true
+2020-07-07:10:24:20am#PG1#Methoden#Was ist der Unterschied zwischen <em>Parameter</em> und <em>Argument</em>?#true
+2020-07-07:10:41:07am#PG1#Methoden#In einer Methode senkrecht wird folgender Code-Abschnitt benutzt, um L&uuml;cken zu erzeugen: <pre>for( int y=ys; y<=ye; y+=2 ) {</pre>#true
+2020-07-07:11:00:15am#PG1#Methoden#<em>call by reference</em> kann man vergleichen mit#true
+2020-07-07:11:00:39am#PG1#Float#Was ergibt 0.1 + 0.1 + 0.1 == 0.3#true
+2020-07-07:11:00:52am#PG1#Float#Unter welchem Namen findet man die Konstante +Infinity in der Java-API?#true
+2020-07-07:11:01:33am#PG1#Float#Welche Bibliotheksmethode berechnet sin(2)?#true
+2020-07-07:11:02:24am#PG1#Float#Wie kann man 10 hoch 5 berechnen?#true
+2020-07-07:12:43:05pm#PG1#Int#int-Wert ueberschreitet gr&ouml;&szlig;ten darstellbaren Wert#true
+2020-07-07:12:43:41pm#PG1#Int#Ist int n = 10.; erlaubt?#true
+2020-07-07:12:43:45pm#PG1#Int#Ist int n = 10_000_000; erlaubt?#true
+2020-07-07:13:43:49pm#PG1#Int#Was sagen Sie  zu folgendem Code?<pre>int i=2, j;</pre>#true
+2020-07-07:13:45:10pm#PG1#Int#Wo sollte man Variablen definieren?#true
+2020-07-07:13:45:31pm#PG1#Int#Wo sollte man Variablen definieren?#false
+2020-07-07:13:45:34pm#PG1#Int#Wo sollte man Variablen definieren?#true
+2020-07-07:13:47:50pm#PG1#Int#Wo sollte man Variablen definieren?#true
+2020-07-07:13:48:00pm#PG1#Int#Was sagen Sie  zu folgendem Code?<pre>int i=2, j;</pre>#true
+2020-07-07:13:53:18pm#PG1#Int#Nach <em>int m;</em> hat m immer den Wert 0#true
+2020-07-07:13:53:25pm#PG1#Int#Was passiert, wenn man eine int-Variable verwendet, ohne ihr vorher eine Wert zuzuweisen?#true
+2020-07-07:13:53:35pm#PG1#Int#Schlechte Namen fuer Variablen?#true
+2020-07-07:13:56:00pm#PG1#Int#Welche Regeln gelten f&uuml;r einen Variablennamen#true
+2020-07-07:13:59:54pm#PG1#Int#Erlaubte Namen fuer Variablen?#false
+2020-07-07:14:00:52pm#PG1#Int#Erlaubte Namen fuer Variablen?#true
+2020-07-07:14:03:21pm#PG1#Felder#Erlaubte Anweisungen?#true
+2020-07-07:14:03:52pm#PG1#Felder#<html>Wie erh&auml;lt man die L&auml;nge des Feldes a?</html>#true
+2020-07-07:14:04:07pm#PG1#Felder#boolean[] bf = new boolean[4]; System.out.println( Arrays.toString( bf ));#true
+2020-07-07:14:05:21pm#PG1#Felder#<pre>boolean[] bf = new boolean[4]; System.out.println( Arrays.toString( bf ));</pre>#true
+2020-07-07:14:13:47pm#PG1#Methoden#Die Anforderung <em>die Methode soll den Wert xy zur&uuml;ckgeben</em> bedeutet#true
+2020-07-07:14:13:51pm#PG1#Methoden#Die Anforderung <em>die Methode soll den Wert xy zur&uuml;ckgeben</em> bedeutet#false
+2020-07-07:14:21:56pm#PG1#Int#Was sind g&uuml;tige int-Werte?#true
+2020-07-07:14:24:02pm#PG1#Int#Was sind g&uuml;tige int-Werte?#true
+2020-07-07:14:26:29pm#PG1#Int#Was sind g&uuml;ltige int-Werte?#false
+2020-07-07:14:26:31pm#PG1#Int#Was sind g&uuml;ltige int-Werte?#true
+2020-07-07:14:26:43pm#PG1#Int#Was sind g&uuml;ltige int-Werte?#false
+2020-07-07:14:26:51pm#PG1#Int#Was sind g&uuml;ltige int-Werte?#true
+2020-07-07:14:27:03pm#PG1#Int#Was sind g&uuml;ltige int-Werte?#true
+2020-07-07:14:27:07pm#PG1#Int#Was sind g&uuml;ltige int-Werte?#false
+2020-07-07:14:27:09pm#PG1#Int#Was sind g&uuml;ltige int-Werte?#true
+2020-07-07:14:28:07pm#PG1#Int#Was sind g&uuml;ltige int-Werte (Hexadezimal)?#true
+2020-07-07:14:28:55pm#PG1#Int#Was sind g&uuml;ltige int-Werte (Hexadezimal)?#false
+2020-07-07:14:29:01pm#PG1#Int#Was sind g&uuml;ltige int-Werte (Hexadezimal)?#true
+2020-07-07:14:29:40pm#PG1#Int#Was sind g&uuml;ltige int-Werte (Hexadezimal)?#true
+2020-07-07:14:30:15pm#PG1#Int#Was sind g&uuml;ltige int-Werte (Hexadezimal)?#true
+2020-07-07:14:30:20pm#PG1#Int#Was sind g&uuml;ltige int-Werte?#true
+2020-07-07:14:30:29pm#PG1#Int#Was passiert, wenn man eine int-Variable verwendet, ohne ihr vorher eine Wert zuzuweisen?#true
+2020-07-07:14:30:43pm#PG1#Int#Welche Anweisungen sind erlaubt?#true
+2020-07-07:14:32:42pm#PG1#Int#<pre>3^2</pre>#true
+2020-07-07:14:32:47pm#PG1#Int#<pre>3^2</pre>#false
+2020-07-07:14:32:53pm#PG1#Int#<pre>3^2</pre>#true
+2020-07-07:14:33:28pm#PG1#Int#<pre>3^2</pre>#true
+2020-07-07:14:34:39pm#PG1#Int#Was sagen Sie  zu folgendem Code?<pre>int i=2, j;</pre>#true
+2020-07-07:14:35:57pm#PG1#Int#Mit <em>i=5;j=5;</em> was ergibt <pre>--i * j</pre>?#true
+2020-07-07:14:43:22pm#PG2#Zeichen#Welche Vergleiche sind erlaubt und ergeben true?#true
+2020-07-07:15:02:37pm#PG1#Print#int a = 15; System.out.printf( "%d %X", a, a );#true
+2020-07-07:15:02:50pm#PG1#Print#System.out.printf( "%.1f", 100./3. );#true
+2020-07-07:16:21:42pm#PG1#Java#Welches Werkzeug &uuml;bersetzt den Java-Quellcode in maschinenverst&auml;ndlichen Java-Bytecode#true
+2020-07-07:16:21:46pm#PG1#Java#In welchem Jahr ist Java erschienen?#false
+2020-07-07:16:21:49pm#PG1#Java#In welchem Jahr ist Java erschienen?#true
+2020-07-07:16:33:07pm#PG1#Java#Welche Datei-Typen spielen bei Java eine Rolle?#true
+2020-07-07:16:38:18pm#PG1#Java#Wof&uuml;r wurde die Java-Technologie urspr&uuml;nglich entwickelt?#true
+2020-07-07:16:38:21pm#PG1#Java#Wof&uuml;r wurde die Java-Technologie urspr&uuml;nglich entwickelt?#false
+2020-07-08:09:14:30am#PG1#Java#Womit beginnt ein Zeilen-Kommentar in Java?#true
+2020-07-08:09:33:03am#PG1#Java#Womit wird ein Mehrzeilen-Kommentar in Java gekennzeichnet?#true
+2020-07-08:09:33:06am#PG1#Java#Womit wird ein Mehrzeilen-Kommentar in Java gekennzeichnet?#false
+2020-07-08:09:33:10am#PG1#Java#Womit wird ein Mehrzeilen-Kommentar in Java gekennzeichnet?#false
+2020-07-08:09:33:16am#PG1#Java#Womit beginnt ein Zeilen-Kommentar in Java?#true
+2020-07-08:09:33:23am#PG1#Java#Womit beginnt ein Zeilen-Kommentar in Java?#false
+2020-07-08:15:48:37pm#PG1#Java#Womit wird ein Mehrzeilen-Kommentar in Java gekennzeichnet?#true
+2020-07-08:15:48:43pm#PG1#Java#Womit beginnt ein Zeilen-Kommentar in Java?#false
+2020-07-08:15:48:46pm#PG1#Java#Womit beginnt ein Zeilen-Kommentar in Java?#true
+2020-07-10:12:16:31pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:20:13pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:20:26pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#true
+2020-07-10:12:20:29pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:28:28pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:28:53pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:29:34pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:29:50pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#true
+2020-07-10:12:29:54pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:31:09pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:31:23pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#true
+2020-07-10:12:31:30pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:33:01pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#false
+2020-07-10:12:36:21pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#true
+2020-07-10:12:36:51pm#SWE2#CleanCode#In welcher Reihenfolge sollten die folgenden Teile einer Java-Klasse stehen?#true
+2020-07-10:13:36:45pm#SWE2#JavaOOP#Ordnen Sie die Attribute nach zunehmender Sichtbarkeit#true
+2020-07-10:14:21:19pm#SWE2#IO#Sie speichern Daten in verschiedenenen Formaten. Welche Reihenfolge erwarten Sie bei den Dateigr&ouml;&szlig;en (von klein nach gro&szlig;)?#true
+2020-07-10:14:29:38pm#SWE2#IO#Die String-Variable line enth&auml;lt eine Zeile aus einer CSV-Datei (Trennzeichen ;). Mit welchem Befehl kann man die Zeile in die einzelnen Teile auftrennen?#true
+2020-07-10:14:29:56pm#SWE2#IO#Die String-Variable line enth&auml;lt eine Zeile aus einer CSV-Datei (Trennzeichen ;). Mit welchem Befehl kann man die Zeile in die einzelnen Teile auftrennen?#false
+2020-07-10:14:30:01pm#SWE2#IO#Die String-Variable line enth&auml;lt eine Zeile aus einer CSV-Datei (Trennzeichen ;). Mit welchem Befehl kann man die Zeile in die einzelnen Teile auftrennen?#false
+2020-07-10:14:33:50pm#SWE2#IO#Mit welchem Aufruf kann man den kompletten Inhalt einer Datei lesen?#false
+2020-07-10:14:33:53pm#SWE2#IO#Mit welchem Aufruf kann man den kompletten Inhalt einer Datei lesen?#true
+2020-07-10:14:33:56pm#SWE2#IO#Mit welchem Aufruf kann man den kompletten Inhalt einer Datei lesen?#false
+2020-07-10:14:38:22pm#SWE2#IO#Was bewirkt <pre>File f = new File("readme.txt")#true
+2020-07-10:14:38:55pm#SWE2#IO#Was bewirkt <pre>File f = new File("readme.txt")</pre>#true
+2020-07-10:14:39:15pm#SWE2#IO#Was bewirkt <pre>File f = new File("readme.txt");</pre>#true
+2020-07-13:13:16:26pm#SWE2#CleanCode#Was sind Namenskonventionen?#true
+2020-07-13:13:17:11pm#PG1#Int#Ist int n = 10_000_000; erlaubt?#true
+2020-07-13:13:17:35pm#PG1#Int#Was sind g&uuml;ltige int-Werte (Hexadezimal)?#false
+2020-07-13:13:17:37pm#PG1#Int#Was sind g&uuml;ltige int-Werte (Hexadezimal)?#true
+2020-07-13:13:17:48pm#PG1#Int#Was sind g&uuml;ltige int-Werte?#true
+2020-07-13:13:30:04pm#SWE2#CleanCode#Welche der folgenden Klassennamen (alle tats&auml;chlich vorgekommen) sind in Ordnung?#true
+2020-07-14:09:59:05am#SWE2#Datenstrukturen#Welche Datenstruktur bietet sich bei <em>T&uuml;rme von Hanoi</em>an?#true
+2020-07-14:09:59:13am#SWE2#Datenstrukturen#Welche Besonderheit gilt beim Zugriff auf die Elemente in einem Stack?#false
+2020-07-14:10:01:46am#SWE2#Datenstrukturen#welche Operationen stellt ein Stack zur Verf&uumlgung?#true
+2020-07-14:10:49:00am#SWE2#Datenstrukturen#Wie definiert man eine Liste p mit Integer-Werten?#true
+2020-07-14:11:00:24am#SWE2#Datenstrukturen#Wizu ben&ouml;tigt man die Klasse Integer?#true
+2020-07-14:11:00:44am#SWE2#Datenstrukturen#Wizu ben&ouml;tigt man die Klasse Integer?#false
+2020-07-14:11:07:28am#SWE2#Datenstrukturen#Kann man folgende Initialisierung ohne new-Operator schreiben?<pre>Integer z = 6;</pre>#false
+2020-07-14:11:07:31am#SWE2#Datenstrukturen#Kann man folgende Initialisierung ohne new-Operator schreiben?<pre>Integer z = 6;</pre>#true
+2020-07-15:09:17:35am#SWE2#JavaOOP#Wie kann eine Klasse verhindern, dass Kind-Klassen direkt auf ein Eltern-Attribut zugreifen k&ouml;nnen?#true
+2020-07-15:09:18:32am#SWE2#JavaOOP#Wie kann eine Klasse verhindern, dass Kind-Klassen direkt auf ein Eltern-Attribut zugreifen k&ouml;nnen?#true
+2020-07-15:09:19:40am#SWE2#JavaOOP#Schl&uuml;sselwort Ableitung von Elternklasse#true
+2020-07-15:09:19:56am#SWE2#JavaOOP#Eine Methode mit gleicher Signatur wie eine Methode in den Elternklassen#true
+2020-07-15:09:24:49am#SWE2#JavaOOP#Wie kann man verhindern, dass von einer Klasse Objekte instanziiert werden?#true
+2020-07-15:09:30:52am#SWE2#JavaOOP#Was bewirkt final bei Methoden?#true
+2020-07-15:19:37:21pm#PG1#Felder#Wie definiert man ein zweidimensionales int-Feld?#true
+2020-07-15:19:37:39pm#PG1#Felder#Wie erh&auml;lt man die L&auml;nge des Feldes a?#true
+2020-07-15:19:37:47pm#PG1#Felder#Wie k&ouml;nnen die Werte im Array feld ausgegeben werden?#true
+2020-07-15:19:38:00pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#true
+2020-07-15:19:38:13pm#PG1#Felder#Erlaubte Anweisungen?#true
+2020-07-15:19:38:15pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-07-15:19:38:22pm#PG1#Felder#<html>In Java haben Arrays eine <em>feste</em> L&auml;nge</html>#true
+2020-07-17:11:57:50am#BoS#Befehle#In welcher Reihenfolge sollte Aufrufe erfolgen, um ein 9x9-Feld mit roten Kreisen und einem gelben in der Mitte zu zeichnen?#true
+2020-07-17:12:03:42pm#BoS#Befehle#In welcher Reihenfolge sollte Aufrufe erfolgen, um ein 9x9-Feld mit roten Kreisen und einem gelben in der Mitte zu zeichnen?#true
+2020-07-17:14:57:22pm#BoS#Snippets#Welche Informationen werden u. a. in einem Snippet gespeichert?#true
+2020-07-20:18:10:46pm#SWE2#JavaOOP#Kann eín Interface Attribute enthalten?#true
+2020-07-20:18:15:43pm#SWE2#JavaOOP#Kann ein Interface nichtstatische auscodierte Methoden enthalten?#true
+2020-07-20:18:26:18pm#BoS#Befehle#Welche Eigenschaft kann man im Men&uuml; <em>Brett</em> f&uuml;r Text einstellen?#true
+2020-07-20:18:39:00pm#SWE2#JavaOOP#Was halten Sie von der Idee, eine abstrakte Methode auf private zu setzten?#true
+2020-07-20:18:39:05pm#SWE2#JavaOOP#Was halten Sie von der Idee, eine abstrakte Methode auf private zu setzten?#false
+2020-07-20:18:53:18pm#SWE2#JavaOOP#Student ist eine Kindklasse der abstrakten Klasse Person. Was ist erlaubt?#true
+2020-07-20:19:02:39pm#SWE2#JavaOOP#Gegeben ist eine Klasse Form mit diversen Kindklassen wie Kreis oder Dreieck und form soll vom Typ Form sein. Wann wird ausgew&auml;t, welche Methode bei dem folgenden Aufruf ausgef&uuml;hrt wird? <pre>form.zeichnen();</pre>#true
+2020-07-20:19:06:39pm#SWE2#JavaOOP#Was bedeutet Polymorphie oder Polymorphismus w&ouml;rtlich?#true
+2020-07-20:19:24:51pm#SWE2#JavaOOP#Jede Klasse muss eine main-Methode enthalten#true
+2020-07-20:19:24:54pm#SWE2#JavaOOP#In einem package darf nur eine Klasse eine main-Methode enthalten#true
+2020-07-20:19:24:58pm#SWE2#JavaOOP#Die main-Methode muss static sein#true
+2020-07-20:19:35:23pm#SWE2#JavaOOP#In einem package darf nur eine Klasse eine main-Methode enthalten#false
+2020-07-21:10:31:59am#BoS#Befehle#in welchem Format werden Befehle an das Board geschickt?#true
+2020-07-21:11:07:10am#BoS#Befehle#Was bewirkt die folgende Zeile?<pre>board.receiveMessage( ">>image 1 1 b0.jpg" );</pre>#true
+2020-07-21:11:07:13am#BoS#Befehle#Was bewirkt die folgende Zeile?<pre>board.receiveMessage( ">>image 1 1 b0.jpg" );</pre>#false
+2020-07-21:11:13:59am#BoS#Befehle#Was bewirkt die folgende Zeile?<pre>board.receiveMessage( ">>bgImage  b0.jpg" );</pre>#true
+2020-07-21:11:14:02am#BoS#Befehle#Was bewirkt die folgende Zeile?<pre>board.receiveMessage( ">>bgImage  b0.jpg" );</pre>#false
+2020-07-21:11:15:31am#BoS#Befehle#Ein Hintergrundbild wird automatisch auf die Gr&ouml;&szlig;e des Boards skaliert.#true
+2020-07-21:11:44:49am#BoS#Befehle#Was ist der Unterschied zwischen den Formen Kreis und Oval?#true
+2020-07-21:11:44:54am#BoS#Befehle#Welche Form ist gut geeigenet zur Darstellung eines Histogramms (grafische Darstellung der Häufigkeitsverteilung)?#false
+2020-07-21:11:44:57am#BoS#Befehle#Welche Form ist gut geeigenet zur Darstellung eines Histogramms (grafische Darstellung der Häufigkeitsverteilung)?#true
+2020-07-21:12:01:55pm#BoS#Befehle#Bei Text kann man auch Unicode-Zeichen wie Spielkarten oder Schachfiguren darstellen lassen (mit passendem Font)#true
+2020-07-21:12:02:00pm#BoS#Befehle#Im FontSelector kann man nach Fonts mit vorgegebenen Unicode-Zeichen suchen lassen.#true
+2020-07-21:12:02:08pm#BoS#Befehle#Wo kann man die erhaltenen BoSL-Befehle anschauen?#true
+2020-07-21:12:02:52pm#BoS#Befehle#Ein Bild wird automatisch auf die Gr&ouml;&szlig;e des aktuellen Symbols  skaliert.#true
+2020-07-25:11:16:06am#BoS#Snippets#Wie ist der Standardname f&uuml;r die Snippet-Datei?#true
+2020-07-25:11:16:11am#BoS#Snippets#Kann man eine Snippet-Datei auch mit einem Text-Editor bearbeiten?#true
+2020-07-25:11:16:21am#BoS#Snippets#Kann man eine Snippet-Datei auch mit einem Text-Editor bearbeiten?#false
+2020-07-25:11:16:24am#BoS#Snippets#Kann man eine Snippet-Datei auch mit einem Text-Editor bearbeiten?#true
+2020-07-27:10:55:09am#BoS#Befehle#Wie kann man Farben angeben?#true
+2020-07-27:10:58:01am#BoS#Befehle#Ver&auml;ndern sich die Farben wenn man die Nummerierung einschaltet?#true
+2020-07-27:10:58:04am#BoS#Befehle#Ver&auml;ndern sich die Farben wenn man die Nummerierung einschaltet?#false
+2020-07-27:10:58:39am#BoS#Befehle#Ver&auml;ndern sich die Farben wenn man die Nummerierung einschaltet?#true
+2020-07-30:16:03:43pm#Religion#r/t1#Wie viele J&uuml;nger hatte Jesus?#true
+2020-07-30:16:14:08pm#Religion#r/t1#Welche Religionsgemeinschaft ist weltweit gesehen zahlenm&auml;&szlig;en am st&auml;rksten?#true
+2020-07-30:16:14:13pm#Religion#r/t1#Wie viele Menschen weltweit bekennen sich zum christlichen Glauben?#true
+2020-07-30:16:14:18pm#Religion#r/t1#Wie hie&szlig; die Mutter von Jesus?#true
+2020-07-30:16:14:24pm#Religion#r/t1#Welchen Beruf erlernte Jesus?#true
+2020-07-30:16:14:29pm#Religion#r/t1#Wie viele J&uuml;nger hatte Jesus?#true
+2020-07-30:16:14:34pm#Religion#r/t1#Wie wurde Jesus bestattet?#true
+2020-07-30:16:14:39pm#Religion#r/t1#Was bedeutet das Wort <em>Evangelium</em> im eigentlichen Sinn?#true
+2020-07-30:16:14:46pm#Religion#r/t1#Wer hat ein Evangelium geschrieben?#true
+2020-07-30:16:15:15pm#Religion#r/t1#Wer gilt im Neuen Testament als <em>der Ungl&auml;ubige</em>?#true
+2020-07-30:16:15:21pm#Religion#r/t1#Woran erinnert der Karfreitag?#true
+2020-07-30:16:15:26pm#Religion#r/t1#Was feiern die Christen an Pfingsten?#true
+2020-07-30:16:15:34pm#Religion#r/t1#Was kritisierte Martin Luther 1517 in seine 95 Thesen in Wittenberg?#false
+2020-07-30:16:15:57pm#Religion#r/t1#Was kritisierte Martin Luther 1517 in seine 95 Thesen in Wittenberg?#true
+2020-07-30:16:16:02pm#Religion#r/t1#Welcher Text beginnt mit <em>Ich glaube an Gott, den Vater, den Allm&auml;chtigen ...</em>?#true
+2020-07-30:16:16:08pm#Religion#r/t1#Was bedeutet das Wort <em>Christus</em> w&ouml;rtlich?#true
+2020-07-30:16:16:13pm#Religion#r/t1#Welche Religionsgemeinschaft ist weltweit gesehen zahlenm&auml;&szlig;en am st&auml;rksten?#false
+2020-07-30:16:16:59pm#Religion#r/t1#Welche Religionsgemeinschaft ist weltweit gesehen zahlenm&auml;&szlig;en am st&auml;rksten?#false
+2020-07-30:16:17:01pm#Religion#r/t1#Welche Religionsgemeinschaft ist weltweit gesehen zahlenm&auml;&szlig;en am st&auml;rksten?#false
+2020-07-30:16:17:07pm#Religion#r/t1#Welche Religionsgemeinschaft ist weltweit gesehen zahlenm&auml;&szlig;en am st&auml;rksten?#true
+2020-07-30:17:17:11pm#Religion#r/t1#Wer hat ein Evangelium geschrieben?#false
+2020-07-30:17:17:15pm#Religion#r/t1#Wer hat ein Evangelium geschrieben?#true
+2020-07-30:17:17:50pm#Religion#r/t1#Wer hat ein Evangelium geschrieben?#true
+2020-07-31:16:13:51pm#Religion#r/t1#Wie viele J&uuml;nger hatte Jesus?#true
+2020-08-05:09:58:51am#SWE2#CleanCode#Lint ist ein Tool zur statischen Code-Analyse. Was bedeutet das Wort &uuml;bersetzt?#false
+2020-08-05:09:59:14am#SWE2#CleanCode#Lint ist ein Tool zur statischen Code-Analyse. Was bedeutet das Wort &uuml;bersetzt?#true
+2020-08-05:10:01:26am#SWE2#Tools#Ein Debugger ist ein Werkzeug zur Fehlersuche#true
+2020-08-05:10:01:29am#SWE2#Tools#Ein Profiler ist ein Werkzeug zur Fehlersuche#true
+2020-08-10:18:13:00pm#Religion#r/all#Ordne die Religionen nach Alter#true
+2020-08-11:16:06:42pm#Religion#r/judentum#Welchen Tag der Woche bezeichnet man in der j&uuml;dischen Religion als Sabbat (Zahl)?#true
+2020-08-11:16:06:57pm#Religion#r/judentum#Was bezeichnet die <em>Tora</em>?#true
+2020-08-12:12:09:20pm#Religion#r/islam#Was ist eine <em>Sure</em>?#true
+2020-08-12:12:09:26pm#Religion#r/islam#Was geh&ouml;rt zu den f&uuml;nf Hauptpflichten?#true
+2020-08-12:12:09:31pm#Religion#r/islam#Welches Land hat mit 12,9% den gr&ouml;&szlig;ten Anteil der muslimischen Weltbev&ouml;lkerung?#true
+2020-08-12:12:09:35pm#Religion#r/islam#Was ist der Turm einer Moschee?#false
+2020-08-12:12:09:41pm#Religion#r/islam#Wie hei&szlig;t die heiligste Stadt im Islam?#true
+2020-08-12:12:09:46pm#Religion#r/islam#Wie hei&szlig;t die heiligste Stadt im Islam?#false
+2020-08-12:12:15:01pm#Religion#r/buddhismus#Aus welchem Land stammt der Buddhismus?#true
+2020-08-12:12:15:08pm#Religion#r/buddhismus#Aus welchem Land stammt der Buddhismus?#false
+2020-08-13:09:48:56am#PG1#Int#12 % 5#true
+2020-08-13:09:49:04am#PG1#Int#13 % 5#false
+2020-08-13:14:10:29pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#false
+2020-08-13:14:10:32pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#true
+2020-08-13:14:20:53pm#PG1#Felder#Erlaubte Anweisungen?#false
+2020-08-13:14:21:53pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#true
+2020-08-13:14:21:59pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#false
+2020-08-13:14:22:03pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#false
+2020-08-13:14:22:19pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#true
+2020-08-13:14:22:22pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#false
+2020-08-13:14:29:35pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#true
+2020-08-13:14:29:47pm#PG1#Felder#Was passiert bei einem Feld-Zugriff auf ein Element ausserhalb des definierten Bereichs?#false
+2020-08-14:11:55:46am#Religion#r/buddhismus#Buddhismus ist eine monotheistische Religion#true
+2020-08-14:11:55:49am#Religion#r/buddhismus#Was ist der Geburtsname des Buddha?#true
+2020-08-14:11:55:53am#Religion#r/buddhismus#Wie hei&szlig;t das religi&ouml;se Oberhaupt des tibetischen Buddhismus?#true
+2020-08-14:11:55:58am#Religion#r/buddhismus#Welche Farben haben die Gew&auml;nder der buddhistischen M&ouml;nche?#true
+2020-08-14:11:56:01am#Religion#r/buddhismus#Wie nennt man den typischen Sitz zum Mdeitieren?#true
+2020-08-14:11:56:04am#Religion#r/buddhismus#Was ist eine Mandala?#true
+2020-08-14:11:56:09am#Religion#r/buddhismus#Was bedeutet <em>Karma</em>?#false
+2020-08-14:11:56:25am#Religion#r/buddhismus#Was bedeutet <em>Karma</em>?#true
+2020-08-14:11:56:31am#Religion#r/buddhismus#Wie hoch ist heute der Anteil der Buddhisten an der Bev&ouml;lkerung Indiens?#true
+2020-08-14:12:01:10pm#Religion#r/buddhismus#Was bedeutet Nirwana#false
+2020-08-14:12:01:13pm#Religion#r/buddhismus#Was bedeutet Nirwana#true
+2020-08-14:12:04:13pm#Religion#r/buddhismus#Im Buddhismus gibt es nur M&ouml;nche und keine Nonnen#true
+2020-08-14:12:04:15pm#Religion#r/buddhismus#Im Buddhismus gibt es nur M&ouml;nche und keine Nonnen#false
+2020-08-14:12:04:25pm#Religion#r/buddhismus#Buddhismus ist eine monotheistische Religion#true
