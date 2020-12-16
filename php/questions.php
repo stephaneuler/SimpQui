@@ -89,7 +89,8 @@ class OrderQuestion extends Question{
 
 
 function parseLine( $line ) {
-	$parts = explode( "#", $line );
+	$parts = preg_split( "/#/", $line );
+	$parts = str_replace( "&num;", "#", $parts );
 	if( $parts[0] == "YesNo" ) {
 		return new YesNoQuestion( $parts[1], $parts[2] );
 	} else if( $parts[0] == "RegOpen" ) {

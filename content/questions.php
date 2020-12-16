@@ -26,6 +26,14 @@ Ein Beispiel f&uuml;r einen Eintrag:
 
 <li>
 <ul>
+<li>Kann man diese Quiz-Anwendung kopieren?</li>
+<li>Ja, der Quellcode ist auf Github: <a href="https://github.com/stephaneuler/SimpQui">SimQui</a></li>
+</ul>
+</li>
+
+
+<li>
+<ul>
 <li>Ich habe einen Fehler gefunden.</li>
 <li>Email an Stephan.Euler@mnd.thm.de </li>
 </ul>

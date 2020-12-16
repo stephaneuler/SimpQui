@@ -5,17 +5,23 @@
 
 <?php 
 $set       = filter_var( $_REQUEST['set'], FILTER_SANITIZE_STRING);
-$topic     = filter_var( $_REQUEST['topic'], FILTER_SANITIZE_STRING);
-$topicName = str_replace(".top","", $topic);
+$topicName = "none";
 
 if( isset( $_REQUEST['name'] ) ) {
 	$setName = filter_var( $_REQUEST['name'], FILTER_SANITIZE_STRING);
+	$topic     = filter_var( $_REQUEST['topic'], FILTER_SANITIZE_STRING);
 	$set = getBuild( $topic, $setName );
 } else {
 	$setName = $set;
 }
 
-echo "<h3>Fragen in der Einheit <em>$setName</em>, Thema <a href='index.php?inhalt=topic&topic=$topic'>$topicName</a> </h3>";
+echo "<h3>Fragen in der Einheit <em>$setName</em>";
+if( isset( $_REQUEST['topic'] ) ) {
+	$topic     = filter_var( $_REQUEST['topic'], FILTER_SANITIZE_STRING);
+	$topicName = str_replace(".top","", $topic);
+	echo ", Thema <a href='index.php?inhalt=topic&topic=$topic'>$topicName</a>";
+}
+echo "</h3>";
 
 $parts =  explode( "|", $set );
 $set = trim( $parts[0] );
