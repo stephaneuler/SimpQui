@@ -1,7 +1,7 @@
-<div class="container-fluid">  
+<div class="container-fluid margin_to_footer_content">  
 
 
-<h2><?=$menus[$content]['name']?></h2>
+<h2 style="margin-top:50px;"><?=$menus[$content]['name']?></h2>
 
 <?php
 $file =  $content . '.php';

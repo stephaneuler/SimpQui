@@ -1,15 +1,15 @@
 <div class="row"> 
-<div class="col-md-9 ">
-
-
-
+<div class="col-md-9">
+<p>
+	W&auml;hle eine Fragesammlung aus.
+</p>
 <?php 
 $topic  = filter_var( $_REQUEST['topic'], FILTER_SANITIZE_STRING);
 $t = str_replace(".top","", $topic);
 
-echo "<h3>Fragen-Sammlungen zum Thema <em>$t</em></h3>";
+echo "<div class='card'><h3 class='card_header card_header_margin' style=''>Fragen-Sammlungen zum Thema <em>$t</em></h3><div class='card_header_margin'>";
 echo getComments( $t, "top" );
-echo "<ul>";
+echo "</div><hr><ul style='padding-bottom:20px';>";
 
 $sets = getSets( $topic );
 foreach( $sets as $set ) {
@@ -26,8 +26,7 @@ foreach( $sets as $set ) {
 }
 ?>
 </ul>
-
-
+</div>
 </div>
 
 <div class="col-md-3 ">

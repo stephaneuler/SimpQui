@@ -11,7 +11,7 @@ if( ! isset(  $_SESSION['loggedin'] ) ) {
 } 
 
 $menus = array();
-$menus['home']       = array( 'file' => './content/template.php', 'name' => 'START', 'nav' => 'main'   );
+$menus['home']       = array( 'file' => './content/template.php', 'name' => 'STARTSEITE', 'nav' => 'main'   );
 $menus['statistic']  = array( 'file' => './content/template.php', 'name' => 'STATISTIK', 'nav' => 'main'   );
 
 $menus['help']       = array( 'name' => 'HILFE', 'dropdown' => 'help', 'nav' => 'main'  );
@@ -47,7 +47,6 @@ if( isset(  $_REQUEST['inhalt'] ) ) {
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   <link href="css/gallery.css" rel="stylesheet" type="text/css">
-  <script src="js/bib.js"></script>
 
 
 </head>
@@ -97,37 +96,37 @@ if( isset(  $_REQUEST['inhalt'] ) ) {
   </div>
 
 </nav>
+<div id="page-container">
+  <div class="row main_row">
 
-<div class="row">
-
-<div id="Inhalt" class="col-md-8 col-md-offset-1" style="padding-bottom:75px;">
-<!-- Container Content -->
-<?php
-if(file_exists($menus[$content]['file'])) {
-	include $menus[$content]['file'];
-} else {
-	include 'content/error/no_such_page.php';
-}
-?>
-</div>
-<div id="Inhalt" class="col-md-3" style="padding-bottom:75px;">
-<?php
-include 'content/neu.php';
-?>
-</div>
-</div>
+  <div id="Inhalt" class="col-md-8 col-md-offset-1">
+  <!-- Container Content -->
+  <?php
+  if(file_exists($menus[$content]['file'])) {
+    include $menus[$content]['file'];
+  } else {
+    include 'content/error/no_such_page.php';
+  }
+  ?>
+  </div>
+  <div id="Inhalt" class="col-md-3">
+  <?php
+  include 'content/neu.php';
+  ?>
+  </div>
+  </div>
 
 
-<footer class="container-fluid text-center no-padding">
+<footer class="text-center container-fluid" id="footer">
   <a href="#home" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
   <p>Ein Projekt der Web&amp;Mobile Gruppe der Fachbereiche IEM/MND 
-  | <a href="https://www.thm.de/site/impressum.html" title="Impressum">Impressum</a>
-  | <a href="https://www.thm.de/site/datenschutz.html" title="Datenschutz">Datenschutz</a>
+  | <a href="https://www.thm.de/site/impressum.html" title="Impressum" target="_blank">Impressum</a>
+  | <a href="https://www.thm.de/site/datenschutz.html" title="Datenschutz" target="_blank">Datenschutz</a>
   </p>
 </footer>
-
+<div>
 <script>
 $(document).ready(function(){
 	nAnswers = 0;

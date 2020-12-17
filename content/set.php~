@@ -1,5 +1,5 @@
 <div class="row" id="quizRow"> 
-<div class="col-md-10 limit-width">
+<div class="col-md-9 limit-width">
 
 <?php 
 $set       = filter_var( $_REQUEST['set'], FILTER_SANITIZE_STRING);
@@ -13,13 +13,12 @@ if( isset( $_REQUEST['name'] ) ) {
 	$setName = $set;
 }
 
-echo "<h3>";
+echo "<h3>Fragen in der Einheit <em>$setName</em>";
 if( isset( $_REQUEST['topic'] ) ) {
 	$topic     = filter_var( $_REQUEST['topic'], FILTER_SANITIZE_STRING);
 	$topicName = str_replace(".top","", $topic);
-	echo "Thema <a href='index.php?inhalt=topic&topic=$topic'>$topicName</a>, ";
+	echo ", Thema <a href='index.php?inhalt=topic&topic=$topic'>$topicName</a>";
 }
-echo "Einheit <em>$setName</em>";
 echo "</h3>";
 
 
@@ -59,7 +58,7 @@ foreach( $questions as $q )  {
 ?>
 </div>
 
-<div class="col-md-2 "></div>
+<div class="col-md-3 "></div>
 </div>
 <div id="statusCounter" style="margin-top:30px;">Bisher 0 Fragen beantwortet</div>
 
