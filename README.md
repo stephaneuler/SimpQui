@@ -1,4 +1,5 @@
 # SimpQui
 simple web quiz
 
-Installation: copy all files to server. 
+Installation: 
+simply copy all files to your server. The topics and questions are stored in files. No database is required.
